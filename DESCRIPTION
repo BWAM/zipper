@@ -20,3 +20,4 @@ Language: en-US
 URL: https://github.com/BWAM/zipper
 BugReports: https://github.com/BWAM/zipper/issues
 Imports: 
+    vroom

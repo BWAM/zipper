@@ -33,9 +33,11 @@ read_zip_element <- function(.file, .zip_path) {
 
   # Apply the proper import based on the file extension
   if (file_extension %in% c("txt", "csv")) {
-    read.csv(unz(description = .zip_path,
-                 filename = .file),
-             stringsAsFactors = FALSE)
+    vroom::vroom(unz(description = .zip_path,
+                     filename = .file))
+    # read.csv(unz(description = .zip_path,
+    #              filename = .file),
+    #          stringsAsFactors = FALSE)
   } else if (file_extension %in% "htm") {
     # NOT READING CORRECTLY
     read_htm(.zip_path = .zip_path,
