@@ -19,3 +19,5 @@ Suggests:
 Language: en-US
 URL: https://github.com/BWAM/zipper
 BugReports: https://github.com/BWAM/zipper/issues
+Imports: 
+    zipper (>= 0.0.0.9000)
