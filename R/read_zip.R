@@ -34,7 +34,8 @@ read_zip_element <- function(.file, .zip_path) {
   # Apply the proper import based on the file extension
   if (file_extension %in% c("txt", "csv")) {
     vroom::vroom(unz(description = .zip_path,
-                     filename = .file))
+                     filename = .file),
+                 progress = FALSE)
     # read.csv(unz(description = .zip_path,
     #              filename = .file),
     #          stringsAsFactors = FALSE)
