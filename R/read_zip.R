@@ -63,7 +63,8 @@ read_htm <- function(.zip_path, .file) {
     readLines(
       con = unzip(zipfile = .zip_path,
                   files = .file,
-                  junkpaths = TRUE),
+                  junkpaths = TRUE,
+                  exdir = tempdir()),
       encoding = "UTF-8",
       skipNul = FALSE,
       warn = FALSE
