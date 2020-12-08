@@ -1,5 +1,7 @@
 # zipper 0.0.2
 
+* Added the ability to pass `col_names` and `col_types` to `vroom::vroom()`via `read_zip_element()` and `read_zip()`.
+
 # zipper 0.0.1
 
 # zipper 0.0.0.9000
