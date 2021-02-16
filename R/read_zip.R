@@ -22,31 +22,11 @@ get_zip_content <- function(.zip_path) {
 #' Read a Single File From a Zip File
 #' Provides some flexibility regarding the file type to be imported.
 #' @param .file the name of a single file contained within a zip file.
-#' @param .col_names argument passed to vroom::vroom. "Either TRUE, FALSE or a
-#'   character vector of column names. If TRUE, the first row of the input will
-#'   be used as the column names, and will not be included in the data frame. If
-#'   FALSE, column names will be generated automatically: X1, X2, X3 etc. If
-#'   col_names is a character vector, the values will be used as the names of
-#'   the columns, and the first row of the input will be read into the first row
-#'   of the output data frame. Missing (NA) column names will generate a
-#'   warning, and be filled in with dummy names X1, X2 etc. Duplicate column
-#' names will generate a warning and be made unique with a numeric prefix."
-#' @param .col_types argument passed to vroom::vroom. "One of NULL, a cols()
-#'   specification, or a string. See vignette("readr") for more details. If
-#'   NULL, all column types will be imputed from the first 1000 rows on the
-#'   input. This is convenient (and fast), but not robust. If the imputation
-#'   fails, you'll need to supply the correct types yourself. If a column
-#'   specification created by cols(), it must contain one column specification
-#'   for each column. If you only want to read a subset of the columns, use
-#'   cols_only(). Alternatively, you can use a compact string representation
-#'   where each character represents one column: c = character, i = integer, n =
-#'   number, d = double, l = logical, f = factor, D = date, T = date time, t =
-#'   time, ? = guess, or _/- to skip the column.
 #' @inheritParams get_zip_content
 #' @return A single object extracted from a zip file.
 
-read_zip_element <- function(.file, .zip_path, .col_names = TRUE,
-                             .col_types = NULL) {
+read_zip_element <- function(.file, .zip_path) {
+
   # Identify the file extension
   file_extension <- substring(.file,
                               regexpr("\\.([[:alnum:]]+)$",
@@ -54,11 +34,13 @@ read_zip_element <- function(.file, .zip_path, .col_names = TRUE,
 
   # Apply the proper import based on the file extension
   if (file_extension %in% c("txt", "csv")) {
-    vroom::vroom(unz(description = .zip_path,
-                     filename = .file),
-                 col_names = .col_names,
-                 col_types = .col_types,
-                 progress = FALSE)
+    read.csv(unz(description = .zip_path,
+                 filename = .file))
+    # vroom::vroom(unz(description = .zip_path,
+    #                  filename = .file),
+    #              col_names = .col_names,
+    #              col_types = .col_types,
+    #              progress = FALSE)
     # read.csv(unz(description = .zip_path,
     #              filename = .file),
     #          stringsAsFactors = FALSE)
@@ -106,8 +88,7 @@ read_htm <- function(.zip_path, .file) {
 #' @return A list of objects imported from a zip file.
 #' @export
 
-read_zip <- function(.zip_path, .col_names = TRUE,
-                     .col_types = NULL) {
+read_zip <- function(.zip_path) {
   # validator function call to extract file names contained in zip
   name_vec <- get_zip_content(.zip_path = .zip_path)$Name
   # Extract the contents of the zip file into a list
@@ -115,9 +96,7 @@ read_zip <- function(.zip_path, .col_names = TRUE,
                      FUN = function(file_i) {
                        # Internal validator function
                        read_zip_element(.file = file_i,
-                                        .zip_path = .zip_path,
-                                        .col_names = .col_names,
-                                        .col_types = .col_types)
+                                        .zip_path = .zip_path)
                      })
   # Name the elements of the list with the file names
   names(zip_list) <- name_vec

@@ -5,34 +5,12 @@
 \title{Read a Single File From a Zip File
 Provides some flexibility regarding the file type to be imported.}
 \usage{
-read_zip_element(.file, .zip_path, .col_names = TRUE, .col_types = NULL)
+read_zip_element(.file, .zip_path)
 }
 \arguments{
 \item{.file}{the name of a single file contained within a zip file.}
 
 \item{.zip_path}{a file path to a zip file.}
-
-\item{.col_names}{argument passed to vroom::vroom. "Either TRUE, FALSE or a
-character vector of column names. If TRUE, the first row of the input will
-be used as the column names, and will not be included in the data frame. If
-FALSE, column names will be generated automatically: X1, X2, X3 etc. If
-col_names is a character vector, the values will be used as the names of
-the columns, and the first row of the input will be read into the first row
-of the output data frame. Missing (NA) column names will generate a
-warning, and be filled in with dummy names X1, X2 etc. Duplicate column
-names will generate a warning and be made unique with a numeric prefix."}
-
-\item{.col_types}{argument passed to vroom::vroom. "One of NULL, a cols()
-specification, or a string. See vignette("readr") for more details. If
-NULL, all column types will be imputed from the first 1000 rows on the
-input. This is convenient (and fast), but not robust. If the imputation
-fails, you'll need to supply the correct types yourself. If a column
-specification created by cols(), it must contain one column specification
-for each column. If you only want to read a subset of the columns, use
-cols_only(). Alternatively, you can use a compact string representation
-where each character represents one column: c = character, i = integer, n =
-number, d = double, l = logical, f = factor, D = date, T = date time, t =
-time, ? = guess, or _/- to skip the column.}
 }
 \value{
 A single object extracted from a zip file.
