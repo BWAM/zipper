@@ -15,9 +15,11 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: 
     spelling,
-    testthat
+    testthat (>= 3.0.0),
+    here
 Language: en-US
 URL: https://github.com/BWAM/zipper
 BugReports: https://github.com/BWAM/zipper/issues
 Imports: 
     vroom
+Config/testthat/edition: 3
