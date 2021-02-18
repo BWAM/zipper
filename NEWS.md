@@ -1,3 +1,5 @@
+# zipper 0.0.5
+
 # zipper 0.0.4
 
 -   `read.csv()` defaults are now:
