@@ -483,134 +483,134 @@
       237            NA   initial              WS                LB    NA
       238            NA   initial              WS                LB    NA
           container_id dilution_factor prep_method           prep_date
-      1             NA               1                                
-      2             NA               1                                
-      3             NA               1                                
+      1             NA               1        <NA>                <NA>
+      2             NA               1        <NA>                <NA>
+      3             NA               1        <NA>                <NA>
       4             NA               1      METHOD 06/17/2020 15:20:00
-      5             NA               1                                
-      6             NA               1             06/19/2020 00:00:00
-      7             NA               1                                
-      8             NA               1                                
-      9             NA               1                                
-      10            NA               1             06/29/2020 00:00:00
+      5             NA               1        <NA>                <NA>
+      6             NA               1        <NA> 06/19/2020 00:00:00
+      7             NA               1        <NA>                <NA>
+      8             NA               1        <NA>                <NA>
+      9             NA               1        <NA>                <NA>
+      10            NA               1        <NA> 06/29/2020 00:00:00
       11            NA               1      METHOD 06/29/2020 14:01:00
       12            NA               1      METHOD 06/23/2020 18:40:00
-      13            NA               1                                
-      14            NA               1                                
-      15            NA               1                                
-      16            NA               1                                
-      17            NA               1                                
-      18            NA               1                                
-      19            NA               1                                
-      20            NA               1                                
+      13            NA               1        <NA>                <NA>
+      14            NA               1        <NA>                <NA>
+      15            NA               1        <NA>                <NA>
+      16            NA               1        <NA>                <NA>
+      17            NA               1        <NA>                <NA>
+      18            NA               1        <NA>                <NA>
+      19            NA               1        <NA>                <NA>
+      20            NA               1        <NA>                <NA>
       21            NA               4      METHOD 06/17/2020 15:20:00
-      22            NA               1                                
-      23            NA               1             06/19/2020 00:00:00
-      24            NA               1                                
-      25            NA               1                                
-      26            NA               1                                
-      27            NA               1             06/29/2020 00:00:00
+      22            NA               1        <NA>                <NA>
+      23            NA               1        <NA> 06/19/2020 00:00:00
+      24            NA               1        <NA>                <NA>
+      25            NA               1        <NA>                <NA>
+      26            NA               1        <NA>                <NA>
+      27            NA               1        <NA> 06/29/2020 00:00:00
       28            NA               1      METHOD 06/29/2020 14:01:00
       29            NA               1      METHOD 06/23/2020 18:40:00
-      30            NA               1                                
-      31            NA               1                                
-      32            NA               1                                
-      33            NA               1                                
-      34            NA               1                                
-      35            NA               1                                
-      36            NA               1                                
-      37            NA               1                                
+      30            NA               1        <NA>                <NA>
+      31            NA               1        <NA>                <NA>
+      32            NA               1        <NA>                <NA>
+      33            NA               1        <NA>                <NA>
+      34            NA               1        <NA>                <NA>
+      35            NA               1        <NA>                <NA>
+      36            NA               1        <NA>                <NA>
+      37            NA               1        <NA>                <NA>
       38            NA               4      METHOD 06/17/2020 15:20:00
-      39            NA               1                                
-      40            NA               1             06/19/2020 00:00:00
-      41            NA               1                                
-      42            NA               1                                
-      43            NA               1                                
-      44            NA               1             06/29/2020 00:00:00
+      39            NA               1        <NA>                <NA>
+      40            NA               1        <NA> 06/19/2020 00:00:00
+      41            NA               1        <NA>                <NA>
+      42            NA               1        <NA>                <NA>
+      43            NA               1        <NA>                <NA>
+      44            NA               1        <NA> 06/29/2020 00:00:00
       45            NA               1      METHOD 06/29/2020 14:01:00
       46            NA               1      METHOD 06/23/2020 18:40:00
-      47            NA               1                                
-      48            NA               1                                
-      49            NA               1                                
-      50            NA               1                                
-      51            NA               1                                
-      52            NA               1                                
-      53            NA               1                                
-      54            NA               1                                
+      47            NA               1        <NA>                <NA>
+      48            NA               1        <NA>                <NA>
+      49            NA               1        <NA>                <NA>
+      50            NA               1        <NA>                <NA>
+      51            NA               1        <NA>                <NA>
+      52            NA               1        <NA>                <NA>
+      53            NA               1        <NA>                <NA>
+      54            NA               1        <NA>                <NA>
       55            NA               1      METHOD 06/17/2020 15:20:00
-      56            NA               1                                
-      57            NA               1             06/19/2020 00:00:00
-      58            NA               1                                
-      59            NA               1                                
-      60            NA               1                                
-      61            NA               1             06/29/2020 00:00:00
+      56            NA               1        <NA>                <NA>
+      57            NA               1        <NA> 06/19/2020 00:00:00
+      58            NA               1        <NA>                <NA>
+      59            NA               1        <NA>                <NA>
+      60            NA               1        <NA>                <NA>
+      61            NA               1        <NA> 06/29/2020 00:00:00
       62            NA               1      METHOD 06/29/2020 14:01:00
       63            NA               1      METHOD 06/23/2020 18:40:00
-      64            NA               1                                
-      65            NA               1                                
-      66            NA               1                                
-      67            NA               1                                
-      68            NA               1                                
-      69            NA               1                                
-      70            NA               1                                
-      71            NA              10                                
+      64            NA               1        <NA>                <NA>
+      65            NA               1        <NA>                <NA>
+      66            NA               1        <NA>                <NA>
+      67            NA               1        <NA>                <NA>
+      68            NA               1        <NA>                <NA>
+      69            NA               1        <NA>                <NA>
+      70            NA               1        <NA>                <NA>
+      71            NA              10        <NA>                <NA>
       72            NA               1      METHOD 06/17/2020 15:20:00
-      73            NA               1                                
-      74            NA               1             06/19/2020 00:00:00
-      75            NA               1                                
-      76            NA               1                                
-      77            NA               1                                
-      78            NA               1             06/29/2020 00:00:00
+      73            NA               1        <NA>                <NA>
+      74            NA               1        <NA> 06/19/2020 00:00:00
+      75            NA               1        <NA>                <NA>
+      76            NA               1        <NA>                <NA>
+      77            NA               1        <NA>                <NA>
+      78            NA               1        <NA> 06/29/2020 00:00:00
       79            NA               1      METHOD 06/29/2020 14:01:00
       80            NA               1      METHOD 06/23/2020 18:40:00
-      81            NA               1                                
-      82            NA              10                                
-      83            NA               1                                
-      84            NA               1                                
-      85            NA               1                                
-      86            NA               1                                
-      87            NA               1                                
-      88            NA               1                                
-      89            NA               1                                
-      90            NA               1                                
+      81            NA               1        <NA>                <NA>
+      82            NA              10        <NA>                <NA>
+      83            NA               1        <NA>                <NA>
+      84            NA               1        <NA>                <NA>
+      85            NA               1        <NA>                <NA>
+      86            NA               1        <NA>                <NA>
+      87            NA               1        <NA>                <NA>
+      88            NA               1        <NA>                <NA>
+      89            NA               1        <NA>                <NA>
+      90            NA               1        <NA>                <NA>
       91            NA               1      METHOD 06/17/2020 15:20:00
-      92            NA               1                                
-      93            NA               1                                
-      94            NA               1                                
+      92            NA               1        <NA>                <NA>
+      93            NA               1        <NA>                <NA>
+      94            NA               1        <NA>                <NA>
       95            NA               1      METHOD 06/29/2020 14:01:00
       96            NA               1      METHOD 06/23/2020 18:40:00
-      97            NA               1                                
-      98            NA               1                                
-      99            NA               1                                
-      100           NA               1                                
-      101           NA               1                                
-      102           NA               1                                
-      103           NA               1                                
-      104           NA               1                                
-      105           NA               1                                
-      106           NA               1                                
-      107           NA               1                                
-      108           NA               1                                
-      109           NA               1                                
-      110           NA               1                                
-      111           NA               1                                
-      112           NA               1                                
-      113           NA               1                                
-      114           NA               1                                
-      115           NA               1                                
+      97            NA               1        <NA>                <NA>
+      98            NA               1        <NA>                <NA>
+      99            NA               1        <NA>                <NA>
+      100           NA               1        <NA>                <NA>
+      101           NA               1        <NA>                <NA>
+      102           NA               1        <NA>                <NA>
+      103           NA               1        <NA>                <NA>
+      104           NA               1        <NA>                <NA>
+      105           NA               1        <NA>                <NA>
+      106           NA               1        <NA>                <NA>
+      107           NA               1        <NA>                <NA>
+      108           NA               1        <NA>                <NA>
+      109           NA               1        <NA>                <NA>
+      110           NA               1        <NA>                <NA>
+      111           NA               1        <NA>                <NA>
+      112           NA               1        <NA>                <NA>
+      113           NA               1        <NA>                <NA>
+      114           NA               1        <NA>                <NA>
+      115           NA               1        <NA>                <NA>
       116           NA               1      METHOD 06/29/2020 14:01:00
       117           NA               1      METHOD 06/23/2020 18:40:00
-      118           NA               1                                
-      119           NA               1                                
-      120           NA               1                                
-      121           NA               1                                
-      122           NA               1                                
-      123           NA               1                                
-      124           NA               1                                
-      125           NA               1                                
-      126           NA               1                                
-      127           NA               1                                
-      128           NA               1                                
+      118           NA               1        <NA>                <NA>
+      119           NA               1        <NA>                <NA>
+      120           NA               1        <NA>                <NA>
+      121           NA               1        <NA>                <NA>
+      122           NA               1        <NA>                <NA>
+      123           NA               1        <NA>                <NA>
+      124           NA               1        <NA>                <NA>
+      125           NA               1        <NA>                <NA>
+      126           NA               1        <NA>                <NA>
+      127           NA               1        <NA>                <NA>
+      128           NA               1        <NA>                <NA>
       129           NA               1     SW3010A 06/19/2020 00:00:00
       130           NA               1     SW3010A 06/19/2020 00:00:00
       131           NA               1     SW3010A 06/19/2020 00:00:00
@@ -975,7 +975,7 @@
       12                NA               20                    mL           NA
       13                NA              100                    mL           NA
       14                NA               10                    mL           NA
-      15                NA               NA                                 NA
+      15                NA               NA                  <NA>           NA
       16                NA               42                    mL           NA
       17                NA               10                    mL           NA
       18                NA                0                    mL           NA
@@ -992,7 +992,7 @@
       29                NA               20                    mL           NA
       30                NA              100                    mL           NA
       31                NA               10                    mL           NA
-      32                NA               NA                                 NA
+      32                NA               NA                  <NA>           NA
       33                NA               42                    mL           NA
       34                NA               10                    mL           NA
       35                NA                0                    mL           NA
@@ -1009,7 +1009,7 @@
       46                NA               20                    mL           NA
       47                NA              100                    mL           NA
       48                NA               10                    mL           NA
-      49                NA               NA                                 NA
+      49                NA               NA                  <NA>           NA
       50                NA               42                    mL           NA
       51                NA               10                    mL           NA
       52                NA                0                    mL           NA
@@ -1026,7 +1026,7 @@
       63                NA               20                    mL           NA
       64                NA              100                    mL           NA
       65                NA               10                    mL           NA
-      66                NA               NA                                 NA
+      66                NA               NA                  <NA>           NA
       67                NA               42                    mL           NA
       68                NA               10                    mL           NA
       69                NA                0                    mL           NA
@@ -1043,7 +1043,7 @@
       80                NA               20                    mL           NA
       81                NA              100                    mL           NA
       82                NA               10                    mL           NA
-      83                NA               NA                                 NA
+      83                NA               NA                  <NA>           NA
       84                NA               42                    mL           NA
       85                NA               10                    mL           NA
       86                NA               42                    mL           NA
@@ -1059,7 +1059,7 @@
       96                NA               20                    mL           NA
       97                NA              100                    mL           NA
       98                NA               10                    mL           NA
-      99                NA               NA                                 NA
+      99                NA               NA                  <NA>           NA
       100               NA               42                    mL           NA
       101               NA                0                    mL           NA
       102               NA               10                    mL           NA
@@ -1200,94 +1200,94 @@
       237               NA               10                    mL           NA
       238               NA               10                    mL           NA
           instrument_id comment preservative final_volume final_volume_unit
-      1              NA      NA           NA           NA                  
+      1              NA      NA           NA           NA              <NA>
       2              NA      NA           NA           10                mL
       3              NA      NA           NA           10                mL
       4              NA      NA           NA         1046                mL
       5              NA      NA           NA           10                mL
-      6              NA      NA           NA           NA                  
-      7              NA      NA           NA           NA                  
+      6              NA      NA           NA           NA              <NA>
+      7              NA      NA           NA           NA              <NA>
       8              NA      NA           NA           10                mL
       9              NA      NA           NA           10                mL
-      10             NA      NA           NA           NA                  
+      10             NA      NA           NA           NA              <NA>
       11             NA      NA           NA           20                mL
       12             NA      NA           NA           20                mL
       13             NA      NA           NA          100                mL
       14             NA      NA           NA           10                mL
-      15             NA      NA           NA           NA                  
+      15             NA      NA           NA           NA              <NA>
       16             NA      NA           NA           42                mL
       17             NA      NA           NA           10                mL
-      18             NA      NA           NA           NA                  
+      18             NA      NA           NA           NA              <NA>
       19             NA      NA           NA           10                mL
       20             NA      NA           NA           10                mL
       21             NA      NA           NA         1056                mL
       22             NA      NA           NA           10                mL
-      23             NA      NA           NA           NA                  
-      24             NA      NA           NA           NA                  
+      23             NA      NA           NA           NA              <NA>
+      24             NA      NA           NA           NA              <NA>
       25             NA      NA           NA           10                mL
       26             NA      NA           NA           10                mL
-      27             NA      NA           NA           NA                  
+      27             NA      NA           NA           NA              <NA>
       28             NA      NA           NA           20                mL
       29             NA      NA           NA           20                mL
       30             NA      NA           NA          100                mL
       31             NA      NA           NA           10                mL
-      32             NA      NA           NA           NA                  
+      32             NA      NA           NA           NA              <NA>
       33             NA      NA           NA           42                mL
       34             NA      NA           NA           10                mL
-      35             NA      NA           NA           NA                  
+      35             NA      NA           NA           NA              <NA>
       36             NA      NA           NA           10                mL
       37             NA      NA           NA           10                mL
       38             NA      NA           NA          950                mL
       39             NA      NA           NA           10                mL
-      40             NA      NA           NA           NA                  
-      41             NA      NA           NA           NA                  
+      40             NA      NA           NA           NA              <NA>
+      41             NA      NA           NA           NA              <NA>
       42             NA      NA           NA           10                mL
       43             NA      NA           NA           10                mL
-      44             NA      NA           NA           NA                  
+      44             NA      NA           NA           NA              <NA>
       45             NA      NA           NA           20                mL
       46             NA      NA           NA           20                mL
       47             NA      NA           NA          100                mL
       48             NA      NA           NA           10                mL
-      49             NA      NA           NA           NA                  
+      49             NA      NA           NA           NA              <NA>
       50             NA      NA           NA           42                mL
       51             NA      NA           NA           10                mL
-      52             NA      NA           NA           NA                  
+      52             NA      NA           NA           NA              <NA>
       53             NA      NA           NA           10                mL
       54             NA      NA           NA           10                mL
       55             NA      NA           NA         1070                mL
       56             NA      NA           NA           10                mL
-      57             NA      NA           NA           NA                  
-      58             NA      NA           NA           NA                  
+      57             NA      NA           NA           NA              <NA>
+      58             NA      NA           NA           NA              <NA>
       59             NA      NA           NA           10                mL
       60             NA      NA           NA           10                mL
-      61             NA      NA           NA           NA                  
+      61             NA      NA           NA           NA              <NA>
       62             NA      NA           NA           20                mL
       63             NA      NA           NA           20                mL
       64             NA      NA           NA          100                mL
       65             NA      NA           NA           10                mL
-      66             NA      NA           NA           NA                  
+      66             NA      NA           NA           NA              <NA>
       67             NA      NA           NA           42                mL
       68             NA      NA           NA           10                mL
-      69             NA      NA           NA           NA                  
+      69             NA      NA           NA           NA              <NA>
       70             NA      NA           NA           10                mL
       71             NA      NA           NA           10                mL
       72             NA      NA           NA         1058                mL
       73             NA      NA           NA           10                mL
-      74             NA      NA           NA           NA                  
-      75             NA      NA           NA           NA                  
+      74             NA      NA           NA           NA              <NA>
+      75             NA      NA           NA           NA              <NA>
       76             NA      NA           NA           10                mL
       77             NA      NA           NA           10                mL
-      78             NA      NA           NA           NA                  
+      78             NA      NA           NA           NA              <NA>
       79             NA      NA           NA           20                mL
       80             NA      NA           NA           20                mL
       81             NA      NA           NA          100                mL
       82             NA      NA           NA           10                mL
-      83             NA      NA           NA           NA                  
+      83             NA      NA           NA           NA              <NA>
       84             NA      NA           NA           42                mL
       85             NA      NA           NA           10                mL
       86             NA      NA           NA           42                mL
       87             NA      NA           NA           10                mL
-      88             NA      NA           NA           NA                  
+      88             NA      NA           NA           NA              <NA>
       89             NA      NA           NA           10                mL
       90             NA      NA           NA           10                mL
       91             NA      NA           NA         1000                mL
@@ -1298,9 +1298,9 @@
       96             NA      NA           NA           20                mL
       97             NA      NA           NA          100                mL
       98             NA      NA           NA           10                mL
-      99             NA      NA           NA           NA                  
+      99             NA      NA           NA           NA              <NA>
       100            NA      NA           NA           42                mL
-      101            NA      NA           NA           NA                  
+      101            NA      NA           NA           NA              <NA>
       102            NA      NA           NA           10                mL
       103            NA      NA           NA           10                mL
       104            NA      NA           NA           10                mL
@@ -1309,7 +1309,7 @@
       107            NA      NA           NA          100                mL
       108            NA      NA           NA           42                mL
       109            NA      NA           NA           10                mL
-      110            NA      NA           NA           NA                  
+      110            NA      NA           NA           NA              <NA>
       111            NA      NA           NA           10                mL
       112            NA      NA           NA           10                mL
       113            NA      NA           NA           10                mL
@@ -1320,7 +1320,7 @@
       118            NA      NA           NA          100                mL
       119            NA      NA           NA           10                mL
       120            NA      NA           NA           42                mL
-      121            NA      NA           NA           NA                  
+      121            NA      NA           NA           NA              <NA>
       122            NA      NA           NA           10                mL
       123            NA      NA           NA           10                mL
       124            NA      NA           NA           10                mL
@@ -1917,91 +1917,91 @@
       237                 NA              TRG               Yes           Y
       238                 NA              TRG               Yes           Y
           Lab_qualifiers validator_qualifiers interpreted_qualifiers validated_yn
-      1                                    NA                                  NA
-      2                                    NA                                  NA
-      3                                    NA                                  NA
-      4                                    NA                                  NA
-      5                                    NA                                  NA
-      6                                    NA                                  NA
-      7                                    NA                                  NA
-      8                                    NA                                  NA
+      1             <NA>                   NA                   <NA>           NA
+      2             <NA>                   NA                   <NA>           NA
+      3             <NA>                   NA                   <NA>           NA
+      4             <NA>                   NA                   <NA>           NA
+      5             <NA>                   NA                   <NA>           NA
+      6             <NA>                   NA                   <NA>           NA
+      7             <NA>                   NA                   <NA>           NA
+      8             <NA>                   NA                   <NA>           NA
       9                U                   NA                      U           NA
-      10                                   NA                                  NA
-      11                                   NA                                  NA
-      12                                   NA                                  NA
-      13                                   NA                                  NA
-      14                                   NA                                  NA
-      15                                   NA                                  NA
-      16                                   NA                                  NA
-      17                                   NA                                  NA
-      18                                   NA                                  NA
-      19                                   NA                                  NA
-      20                                   NA                                  NA
-      21                                   NA                                  NA
+      10            <NA>                   NA                   <NA>           NA
+      11            <NA>                   NA                   <NA>           NA
+      12            <NA>                   NA                   <NA>           NA
+      13            <NA>                   NA                   <NA>           NA
+      14            <NA>                   NA                   <NA>           NA
+      15            <NA>                   NA                   <NA>           NA
+      16            <NA>                   NA                   <NA>           NA
+      17            <NA>                   NA                   <NA>           NA
+      18            <NA>                   NA                   <NA>           NA
+      19            <NA>                   NA                   <NA>           NA
+      20            <NA>                   NA                   <NA>           NA
+      21            <NA>                   NA                   <NA>           NA
       22               U                   NA                      U           NA
-      23                                   NA                                  NA
-      24                                   NA                                  NA
-      25                                   NA                                  NA
+      23            <NA>                   NA                   <NA>           NA
+      24            <NA>                   NA                   <NA>           NA
+      25            <NA>                   NA                   <NA>           NA
       26               U                   NA                      U           NA
-      27                                   NA                                  NA
-      28                                   NA                                  NA
-      29                                   NA                                  NA
-      30                                   NA                                  NA
-      31                                   NA                                  NA
-      32                                   NA                                  NA
-      33                                   NA                                  NA
+      27            <NA>                   NA                   <NA>           NA
+      28            <NA>                   NA                   <NA>           NA
+      29            <NA>                   NA                   <NA>           NA
+      30            <NA>                   NA                   <NA>           NA
+      31            <NA>                   NA                   <NA>           NA
+      32            <NA>                   NA                   <NA>           NA
+      33            <NA>                   NA                   <NA>           NA
       34               U                   NA                      U           NA
-      35                                   NA                                  NA
-      36                                   NA                                  NA
-      37                                   NA                                  NA
-      38                                   NA                                  NA
+      35            <NA>                   NA                   <NA>           NA
+      36            <NA>                   NA                   <NA>           NA
+      37            <NA>                   NA                   <NA>           NA
+      38            <NA>                   NA                   <NA>           NA
       39               U                   NA                      U           NA
-      40                                   NA                                  NA
-      41                                   NA                                  NA
-      42                                   NA                                  NA
+      40            <NA>                   NA                   <NA>           NA
+      41            <NA>                   NA                   <NA>           NA
+      42            <NA>                   NA                   <NA>           NA
       43               U                   NA                      U           NA
-      44                                   NA                                  NA
-      45                                   NA                                  NA
-      46                                   NA                                  NA
-      47                                   NA                                  NA
-      48                                   NA                                  NA
-      49                                   NA                                  NA
-      50                                   NA                                  NA
+      44            <NA>                   NA                   <NA>           NA
+      45            <NA>                   NA                   <NA>           NA
+      46            <NA>                   NA                   <NA>           NA
+      47            <NA>                   NA                   <NA>           NA
+      48            <NA>                   NA                   <NA>           NA
+      49            <NA>                   NA                   <NA>           NA
+      50            <NA>                   NA                   <NA>           NA
       51               U                   NA                      U           NA
-      52                                   NA                                  NA
-      53                                   NA                                  NA
-      54                                   NA                                  NA
-      55                                   NA                                  NA
+      52            <NA>                   NA                   <NA>           NA
+      53            <NA>                   NA                   <NA>           NA
+      54            <NA>                   NA                   <NA>           NA
+      55            <NA>                   NA                   <NA>           NA
       56               U                   NA                      U           NA
-      57                                   NA                                  NA
-      58                                   NA                                  NA
-      59                                   NA                                  NA
+      57            <NA>                   NA                   <NA>           NA
+      58            <NA>                   NA                   <NA>           NA
+      59            <NA>                   NA                   <NA>           NA
       60               U                   NA                      U           NA
-      61                                   NA                                  NA
-      62                                   NA                                  NA
-      63                                   NA                                  NA
-      64                                   NA                                  NA
-      65                                   NA                                  NA
-      66                                   NA                                  NA
-      67                                   NA                                  NA
+      61            <NA>                   NA                   <NA>           NA
+      62            <NA>                   NA                   <NA>           NA
+      63            <NA>                   NA                   <NA>           NA
+      64            <NA>                   NA                   <NA>           NA
+      65            <NA>                   NA                   <NA>           NA
+      66            <NA>                   NA                   <NA>           NA
+      67            <NA>                   NA                   <NA>           NA
       68               U                   NA                      U           NA
-      69                                   NA                                  NA
-      70                                   NA                                  NA
-      71                                   NA                                  NA
-      72                                   NA                                  NA
+      69            <NA>                   NA                   <NA>           NA
+      70            <NA>                   NA                   <NA>           NA
+      71            <NA>                   NA                   <NA>           NA
+      72            <NA>                   NA                   <NA>           NA
       73               U                   NA                      U           NA
-      74                                   NA                                  NA
-      75                                   NA                                  NA
-      76                                   NA                                  NA
-      77                                   NA                                  NA
-      78                                   NA                                  NA
-      79                                   NA                                  NA
-      80                                   NA                                  NA
-      81                                   NA                                  NA
-      82                                   NA                                  NA
-      83                                   NA                                  NA
-      84                                   NA                                  NA
-      85                                   NA                                  NA
+      74            <NA>                   NA                   <NA>           NA
+      75            <NA>                   NA                   <NA>           NA
+      76            <NA>                   NA                   <NA>           NA
+      77            <NA>                   NA                   <NA>           NA
+      78            <NA>                   NA                   <NA>           NA
+      79            <NA>                   NA                   <NA>           NA
+      80            <NA>                   NA                   <NA>           NA
+      81            <NA>                   NA                   <NA>           NA
+      82            <NA>                   NA                   <NA>           NA
+      83            <NA>                   NA                   <NA>           NA
+      84            <NA>                   NA                   <NA>           NA
+      85            <NA>                   NA                   <NA>           NA
       86               U                   NA                      U           NA
       87               U                   NA                      U           NA
       88               U                   NA                      U           NA
@@ -2023,42 +2023,42 @@
       104              U                   NA                      U           NA
       105              U                   NA                      U           NA
       106              U                   NA                      U           NA
-      107                                  NA                                  NA
-      108                                  NA                                  NA
-      109                                  NA                                  NA
-      110                                  NA                                  NA
-      111                                  NA                                  NA
-      112                                  NA                                  NA
-      113                                  NA                                  NA
-      114                                  NA                                  NA
-      115                                  NA                                  NA
-      116                                  NA                                  NA
-      117                                  NA                                  NA
-      118                                  NA                                  NA
-      119                                  NA                                  NA
-      120                                  NA                                  NA
-      121                                  NA                                  NA
-      122                                  NA                                  NA
-      123                                  NA                                  NA
-      124                                  NA                                  NA
-      125                                  NA                                  NA
-      126                                  NA                                  NA
-      127                                  NA                                  NA
-      128                                  NA                                  NA
-      129                                  NA                                  NA
-      130                                  NA                                  NA
-      131                                  NA                                  NA
-      132                                  NA                                  NA
-      133                                  NA                                  NA
-      134                                  NA                                  NA
-      135                                  NA                                  NA
-      136                                  NA                                  NA
-      137                                  NA                                  NA
-      138                                  NA                                  NA
-      139                                  NA                                  NA
-      140                                  NA                                  NA
-      141                                  NA                                  NA
-      142                                  NA                                  NA
+      107           <NA>                   NA                   <NA>           NA
+      108           <NA>                   NA                   <NA>           NA
+      109           <NA>                   NA                   <NA>           NA
+      110           <NA>                   NA                   <NA>           NA
+      111           <NA>                   NA                   <NA>           NA
+      112           <NA>                   NA                   <NA>           NA
+      113           <NA>                   NA                   <NA>           NA
+      114           <NA>                   NA                   <NA>           NA
+      115           <NA>                   NA                   <NA>           NA
+      116           <NA>                   NA                   <NA>           NA
+      117           <NA>                   NA                   <NA>           NA
+      118           <NA>                   NA                   <NA>           NA
+      119           <NA>                   NA                   <NA>           NA
+      120           <NA>                   NA                   <NA>           NA
+      121           <NA>                   NA                   <NA>           NA
+      122           <NA>                   NA                   <NA>           NA
+      123           <NA>                   NA                   <NA>           NA
+      124           <NA>                   NA                   <NA>           NA
+      125           <NA>                   NA                   <NA>           NA
+      126           <NA>                   NA                   <NA>           NA
+      127           <NA>                   NA                   <NA>           NA
+      128           <NA>                   NA                   <NA>           NA
+      129           <NA>                   NA                   <NA>           NA
+      130           <NA>                   NA                   <NA>           NA
+      131           <NA>                   NA                   <NA>           NA
+      132           <NA>                   NA                   <NA>           NA
+      133           <NA>                   NA                   <NA>           NA
+      134           <NA>                   NA                   <NA>           NA
+      135           <NA>                   NA                   <NA>           NA
+      136           <NA>                   NA                   <NA>           NA
+      137           <NA>                   NA                   <NA>           NA
+      138           <NA>                   NA                   <NA>           NA
+      139           <NA>                   NA                   <NA>           NA
+      140           <NA>                   NA                   <NA>           NA
+      141           <NA>                   NA                   <NA>           NA
+      142           <NA>                   NA                   <NA>           NA
       143              U                   NA                      U           NA
       144              U                   NA                      U           NA
       145              U                   NA                      U           NA
@@ -2074,87 +2074,87 @@
       155              U                   NA                      U           NA
       156              U                   NA                      U           NA
       157              U                   NA                      U           NA
-      158                                  NA                                  NA
+      158           <NA>                   NA                   <NA>           NA
       159              U                   NA                      U           NA
-      160                                  NA                                  NA
-      161                                  NA                                  NA
-      162                                  NA                                  NA
+      160           <NA>                   NA                   <NA>           NA
+      161           <NA>                   NA                   <NA>           NA
+      162           <NA>                   NA                   <NA>           NA
       163              J                   NA                      J           NA
-      164                                  NA                                  NA
-      165                                  NA                                  NA
+      164           <NA>                   NA                   <NA>           NA
+      165           <NA>                   NA                   <NA>           NA
       166              U                   NA                      U           NA
-      167                                  NA                                  NA
+      167           <NA>                   NA                   <NA>           NA
       168              U                   NA                      U           NA
       169              J                   NA                      J           NA
-      170                                  NA                                  NA
+      170           <NA>                   NA                   <NA>           NA
       171              U                   NA                      U           NA
-      172                                  NA                                  NA
+      172           <NA>                   NA                   <NA>           NA
       173              U                   NA                      U           NA
-      174                                  NA                                  NA
-      175                                  NA                                  NA
-      176                                  NA                                  NA
+      174           <NA>                   NA                   <NA>           NA
+      175           <NA>                   NA                   <NA>           NA
+      176           <NA>                   NA                   <NA>           NA
       177              J                   NA                      J           NA
-      178                                  NA                                  NA
-      179                                  NA                                  NA
+      178           <NA>                   NA                   <NA>           NA
+      179           <NA>                   NA                   <NA>           NA
       180              U                   NA                      U           NA
-      181                                  NA                                  NA
+      181           <NA>                   NA                   <NA>           NA
       182              U                   NA                      U           NA
       183              J                   NA                      J           NA
-      184                                  NA                                  NA
+      184           <NA>                   NA                   <NA>           NA
       185              U                   NA                      U           NA
-      186                                  NA                                  NA
+      186           <NA>                   NA                   <NA>           NA
       187              U                   NA                      U           NA
-      188                                  NA                                  NA
-      189                                  NA                                  NA
-      190                                  NA                                  NA
+      188           <NA>                   NA                   <NA>           NA
+      189           <NA>                   NA                   <NA>           NA
+      190           <NA>                   NA                   <NA>           NA
       191              J                   NA                      J           NA
-      192                                  NA                                  NA
-      193                                  NA                                  NA
+      192           <NA>                   NA                   <NA>           NA
+      193           <NA>                   NA                   <NA>           NA
       194              U                   NA                      U           NA
-      195                                  NA                                  NA
+      195           <NA>                   NA                   <NA>           NA
       196              U                   NA                      U           NA
       197              J                   NA                      J           NA
-      198                                  NA                                  NA
+      198           <NA>                   NA                   <NA>           NA
       199              U                   NA                      U           NA
-      200                                  NA                                  NA
+      200           <NA>                   NA                   <NA>           NA
       201              U                   NA                      U           NA
-      202                                  NA                                  NA
+      202           <NA>                   NA                   <NA>           NA
       203              J                   NA                      J           NA
-      204                                  NA                                  NA
+      204           <NA>                   NA                   <NA>           NA
       205              J                   NA                      J           NA
-      206                                  NA                                  NA
-      207                                  NA                                  NA
+      206           <NA>                   NA                   <NA>           NA
+      207           <NA>                   NA                   <NA>           NA
       208              U                   NA                      U           NA
       209              U                   NA                      U           NA
       210              U                   NA                      U           NA
       211              U                   NA                      U           NA
-      212                                  NA                                  NA
+      212           <NA>                   NA                   <NA>           NA
       213              J                   NA                      J           NA
-      214                                  NA                                  NA
+      214           <NA>                   NA                   <NA>           NA
       215              U                   NA                      U           NA
-      216                                  NA                                  NA
-      217                                  NA                                  NA
-      218                                  NA                                  NA
+      216           <NA>                   NA                   <NA>           NA
+      217           <NA>                   NA                   <NA>           NA
+      218           <NA>                   NA                   <NA>           NA
       219              J                   NA                      J           NA
-      220                                  NA                                  NA
-      221                                  NA                                  NA
-      222                                  NA                                  NA
-      223                                  NA                                  NA
-      224                                  NA                                  NA
-      225                                  NA                                  NA
-      226                                  NA                                  NA
-      227                                  NA                                  NA
-      228                                  NA                                  NA
-      229                                  NA                                  NA
-      230                                  NA                                  NA
-      231                                  NA                                  NA
-      232                                  NA                                  NA
-      233                                  NA                                  NA
+      220           <NA>                   NA                   <NA>           NA
+      221           <NA>                   NA                   <NA>           NA
+      222           <NA>                   NA                   <NA>           NA
+      223           <NA>                   NA                   <NA>           NA
+      224           <NA>                   NA                   <NA>           NA
+      225           <NA>                   NA                   <NA>           NA
+      226           <NA>                   NA                   <NA>           NA
+      227           <NA>                   NA                   <NA>           NA
+      228           <NA>                   NA                   <NA>           NA
+      229           <NA>                   NA                   <NA>           NA
+      230           <NA>                   NA                   <NA>           NA
+      231           <NA>                   NA                   <NA>           NA
+      232           <NA>                   NA                   <NA>           NA
+      233           <NA>                   NA                   <NA>           NA
       234              U                   NA                      U           NA
-      235                                  NA                                  NA
+      235           <NA>                   NA                   <NA>           NA
       236              U                   NA                      U           NA
       237              J                   NA                      J           NA
-      238                                  NA                                  NA
+      238           <NA>                   NA                   <NA>           NA
           method_detection_limit reporting_detection_limit quantitation_limit
       1                  1.8e+00                        NA              2.000
       2                  3.0e-03                        NA              0.010
@@ -2634,91 +2634,91 @@
       237        ug/l                 ug/l                 NA                 2.6e-01
       238        ug/l                 ug/l                 NA                 2.5e+00
           counting_error uncertainty critical_value validation_level result_comment
-      1               NA          NA             NA               NA               
-      2               NA          NA             NA               NA               
-      3               NA          NA             NA               NA               
-      4               NA          NA             NA               NA               
-      5               NA          NA             NA               NA               
-      6               NA          NA             NA               NA               
-      7               NA          NA             NA               NA               
-      8               NA          NA             NA               NA               
+      1               NA          NA             NA               NA           <NA>
+      2               NA          NA             NA               NA           <NA>
+      3               NA          NA             NA               NA           <NA>
+      4               NA          NA             NA               NA           <NA>
+      5               NA          NA             NA               NA           <NA>
+      6               NA          NA             NA               NA           <NA>
+      7               NA          NA             NA               NA           <NA>
+      8               NA          NA             NA               NA           <NA>
       9               NA          NA             NA               NA   not detected
-      10              NA          NA             NA               NA               
-      11              NA          NA             NA               NA               
-      12              NA          NA             NA               NA               
-      13              NA          NA             NA               NA               
-      14              NA          NA             NA               NA               
-      15              NA          NA             NA               NA               
-      16              NA          NA             NA               NA               
-      17              NA          NA             NA               NA               
-      18              NA          NA             NA               NA               
-      19              NA          NA             NA               NA               
-      20              NA          NA             NA               NA               
-      21              NA          NA             NA               NA               
+      10              NA          NA             NA               NA           <NA>
+      11              NA          NA             NA               NA           <NA>
+      12              NA          NA             NA               NA           <NA>
+      13              NA          NA             NA               NA           <NA>
+      14              NA          NA             NA               NA           <NA>
+      15              NA          NA             NA               NA           <NA>
+      16              NA          NA             NA               NA           <NA>
+      17              NA          NA             NA               NA           <NA>
+      18              NA          NA             NA               NA           <NA>
+      19              NA          NA             NA               NA           <NA>
+      20              NA          NA             NA               NA           <NA>
+      21              NA          NA             NA               NA           <NA>
       22              NA          NA             NA               NA   not detected
-      23              NA          NA             NA               NA               
-      24              NA          NA             NA               NA               
-      25              NA          NA             NA               NA               
+      23              NA          NA             NA               NA           <NA>
+      24              NA          NA             NA               NA           <NA>
+      25              NA          NA             NA               NA           <NA>
       26              NA          NA             NA               NA   not detected
-      27              NA          NA             NA               NA               
-      28              NA          NA             NA               NA               
-      29              NA          NA             NA               NA               
-      30              NA          NA             NA               NA               
-      31              NA          NA             NA               NA               
-      32              NA          NA             NA               NA               
-      33              NA          NA             NA               NA               
+      27              NA          NA             NA               NA           <NA>
+      28              NA          NA             NA               NA           <NA>
+      29              NA          NA             NA               NA           <NA>
+      30              NA          NA             NA               NA           <NA>
+      31              NA          NA             NA               NA           <NA>
+      32              NA          NA             NA               NA           <NA>
+      33              NA          NA             NA               NA           <NA>
       34              NA          NA             NA               NA   not detected
-      35              NA          NA             NA               NA               
-      36              NA          NA             NA               NA               
-      37              NA          NA             NA               NA               
-      38              NA          NA             NA               NA               
+      35              NA          NA             NA               NA           <NA>
+      36              NA          NA             NA               NA           <NA>
+      37              NA          NA             NA               NA           <NA>
+      38              NA          NA             NA               NA           <NA>
       39              NA          NA             NA               NA   not detected
-      40              NA          NA             NA               NA               
-      41              NA          NA             NA               NA               
-      42              NA          NA             NA               NA               
+      40              NA          NA             NA               NA           <NA>
+      41              NA          NA             NA               NA           <NA>
+      42              NA          NA             NA               NA           <NA>
       43              NA          NA             NA               NA   not detected
-      44              NA          NA             NA               NA               
-      45              NA          NA             NA               NA               
-      46              NA          NA             NA               NA               
-      47              NA          NA             NA               NA               
-      48              NA          NA             NA               NA               
-      49              NA          NA             NA               NA               
-      50              NA          NA             NA               NA               
+      44              NA          NA             NA               NA           <NA>
+      45              NA          NA             NA               NA           <NA>
+      46              NA          NA             NA               NA           <NA>
+      47              NA          NA             NA               NA           <NA>
+      48              NA          NA             NA               NA           <NA>
+      49              NA          NA             NA               NA           <NA>
+      50              NA          NA             NA               NA           <NA>
       51              NA          NA             NA               NA   not detected
-      52              NA          NA             NA               NA               
-      53              NA          NA             NA               NA               
-      54              NA          NA             NA               NA               
-      55              NA          NA             NA               NA               
+      52              NA          NA             NA               NA           <NA>
+      53              NA          NA             NA               NA           <NA>
+      54              NA          NA             NA               NA           <NA>
+      55              NA          NA             NA               NA           <NA>
       56              NA          NA             NA               NA   not detected
-      57              NA          NA             NA               NA               
-      58              NA          NA             NA               NA               
-      59              NA          NA             NA               NA               
+      57              NA          NA             NA               NA           <NA>
+      58              NA          NA             NA               NA           <NA>
+      59              NA          NA             NA               NA           <NA>
       60              NA          NA             NA               NA   not detected
-      61              NA          NA             NA               NA               
-      62              NA          NA             NA               NA               
-      63              NA          NA             NA               NA               
-      64              NA          NA             NA               NA               
-      65              NA          NA             NA               NA               
-      66              NA          NA             NA               NA               
-      67              NA          NA             NA               NA               
+      61              NA          NA             NA               NA           <NA>
+      62              NA          NA             NA               NA           <NA>
+      63              NA          NA             NA               NA           <NA>
+      64              NA          NA             NA               NA           <NA>
+      65              NA          NA             NA               NA           <NA>
+      66              NA          NA             NA               NA           <NA>
+      67              NA          NA             NA               NA           <NA>
       68              NA          NA             NA               NA   not detected
-      69              NA          NA             NA               NA               
-      70              NA          NA             NA               NA               
-      71              NA          NA             NA               NA               
-      72              NA          NA             NA               NA               
+      69              NA          NA             NA               NA           <NA>
+      70              NA          NA             NA               NA           <NA>
+      71              NA          NA             NA               NA           <NA>
+      72              NA          NA             NA               NA           <NA>
       73              NA          NA             NA               NA   not detected
-      74              NA          NA             NA               NA               
-      75              NA          NA             NA               NA               
-      76              NA          NA             NA               NA               
-      77              NA          NA             NA               NA               
-      78              NA          NA             NA               NA               
-      79              NA          NA             NA               NA               
-      80              NA          NA             NA               NA               
-      81              NA          NA             NA               NA               
-      82              NA          NA             NA               NA               
-      83              NA          NA             NA               NA               
-      84              NA          NA             NA               NA               
-      85              NA          NA             NA               NA               
+      74              NA          NA             NA               NA           <NA>
+      75              NA          NA             NA               NA           <NA>
+      76              NA          NA             NA               NA           <NA>
+      77              NA          NA             NA               NA           <NA>
+      78              NA          NA             NA               NA           <NA>
+      79              NA          NA             NA               NA           <NA>
+      80              NA          NA             NA               NA           <NA>
+      81              NA          NA             NA               NA           <NA>
+      82              NA          NA             NA               NA           <NA>
+      83              NA          NA             NA               NA           <NA>
+      84              NA          NA             NA               NA           <NA>
+      85              NA          NA             NA               NA           <NA>
       86              NA          NA             NA               NA   not detected
       87              NA          NA             NA               NA   not detected
       88              NA          NA             NA               NA   not detected
@@ -2740,42 +2740,42 @@
       104             NA          NA             NA               NA   not detected
       105             NA          NA             NA               NA   not detected
       106             NA          NA             NA               NA   not detected
-      107             NA          NA             NA               NA               
-      108             NA          NA             NA               NA               
-      109             NA          NA             NA               NA               
-      110             NA          NA             NA               NA               
-      111             NA          NA             NA               NA               
-      112             NA          NA             NA               NA               
-      113             NA          NA             NA               NA               
-      114             NA          NA             NA               NA               
-      115             NA          NA             NA               NA               
-      116             NA          NA             NA               NA               
-      117             NA          NA             NA               NA               
-      118             NA          NA             NA               NA               
-      119             NA          NA             NA               NA               
-      120             NA          NA             NA               NA               
-      121             NA          NA             NA               NA               
-      122             NA          NA             NA               NA               
-      123             NA          NA             NA               NA               
-      124             NA          NA             NA               NA               
-      125             NA          NA             NA               NA               
-      126             NA          NA             NA               NA               
-      127             NA          NA             NA               NA               
-      128             NA          NA             NA               NA               
-      129             NA          NA             NA               NA               
-      130             NA          NA             NA               NA               
-      131             NA          NA             NA               NA               
-      132             NA          NA             NA               NA               
-      133             NA          NA             NA               NA               
-      134             NA          NA             NA               NA               
-      135             NA          NA             NA               NA               
-      136             NA          NA             NA               NA               
-      137             NA          NA             NA               NA               
-      138             NA          NA             NA               NA               
-      139             NA          NA             NA               NA               
-      140             NA          NA             NA               NA               
-      141             NA          NA             NA               NA               
-      142             NA          NA             NA               NA               
+      107             NA          NA             NA               NA           <NA>
+      108             NA          NA             NA               NA           <NA>
+      109             NA          NA             NA               NA           <NA>
+      110             NA          NA             NA               NA           <NA>
+      111             NA          NA             NA               NA           <NA>
+      112             NA          NA             NA               NA           <NA>
+      113             NA          NA             NA               NA           <NA>
+      114             NA          NA             NA               NA           <NA>
+      115             NA          NA             NA               NA           <NA>
+      116             NA          NA             NA               NA           <NA>
+      117             NA          NA             NA               NA           <NA>
+      118             NA          NA             NA               NA           <NA>
+      119             NA          NA             NA               NA           <NA>
+      120             NA          NA             NA               NA           <NA>
+      121             NA          NA             NA               NA           <NA>
+      122             NA          NA             NA               NA           <NA>
+      123             NA          NA             NA               NA           <NA>
+      124             NA          NA             NA               NA           <NA>
+      125             NA          NA             NA               NA           <NA>
+      126             NA          NA             NA               NA           <NA>
+      127             NA          NA             NA               NA           <NA>
+      128             NA          NA             NA               NA           <NA>
+      129             NA          NA             NA               NA           <NA>
+      130             NA          NA             NA               NA           <NA>
+      131             NA          NA             NA               NA           <NA>
+      132             NA          NA             NA               NA           <NA>
+      133             NA          NA             NA               NA           <NA>
+      134             NA          NA             NA               NA           <NA>
+      135             NA          NA             NA               NA           <NA>
+      136             NA          NA             NA               NA           <NA>
+      137             NA          NA             NA               NA           <NA>
+      138             NA          NA             NA               NA           <NA>
+      139             NA          NA             NA               NA           <NA>
+      140             NA          NA             NA               NA           <NA>
+      141             NA          NA             NA               NA           <NA>
+      142             NA          NA             NA               NA           <NA>
       143             NA          NA             NA               NA   not detected
       144             NA          NA             NA               NA   not detected
       145             NA          NA             NA               NA   not detected
@@ -2791,87 +2791,87 @@
       155             NA          NA             NA               NA   not detected
       156             NA          NA             NA               NA   not detected
       157             NA          NA             NA               NA   not detected
-      158             NA          NA             NA               NA               
+      158             NA          NA             NA               NA           <NA>
       159             NA          NA             NA               NA   not detected
-      160             NA          NA             NA               NA               
-      161             NA          NA             NA               NA               
-      162             NA          NA             NA               NA               
-      163             NA          NA             NA               NA               
-      164             NA          NA             NA               NA               
-      165             NA          NA             NA               NA               
+      160             NA          NA             NA               NA           <NA>
+      161             NA          NA             NA               NA           <NA>
+      162             NA          NA             NA               NA           <NA>
+      163             NA          NA             NA               NA           <NA>
+      164             NA          NA             NA               NA           <NA>
+      165             NA          NA             NA               NA           <NA>
       166             NA          NA             NA               NA   not detected
-      167             NA          NA             NA               NA               
+      167             NA          NA             NA               NA           <NA>
       168             NA          NA             NA               NA   not detected
-      169             NA          NA             NA               NA               
-      170             NA          NA             NA               NA               
+      169             NA          NA             NA               NA           <NA>
+      170             NA          NA             NA               NA           <NA>
       171             NA          NA             NA               NA   not detected
-      172             NA          NA             NA               NA               
+      172             NA          NA             NA               NA           <NA>
       173             NA          NA             NA               NA   not detected
-      174             NA          NA             NA               NA               
-      175             NA          NA             NA               NA               
-      176             NA          NA             NA               NA               
-      177             NA          NA             NA               NA               
-      178             NA          NA             NA               NA               
-      179             NA          NA             NA               NA               
+      174             NA          NA             NA               NA           <NA>
+      175             NA          NA             NA               NA           <NA>
+      176             NA          NA             NA               NA           <NA>
+      177             NA          NA             NA               NA           <NA>
+      178             NA          NA             NA               NA           <NA>
+      179             NA          NA             NA               NA           <NA>
       180             NA          NA             NA               NA   not detected
-      181             NA          NA             NA               NA               
+      181             NA          NA             NA               NA           <NA>
       182             NA          NA             NA               NA   not detected
-      183             NA          NA             NA               NA               
-      184             NA          NA             NA               NA               
+      183             NA          NA             NA               NA           <NA>
+      184             NA          NA             NA               NA           <NA>
       185             NA          NA             NA               NA   not detected
-      186             NA          NA             NA               NA               
+      186             NA          NA             NA               NA           <NA>
       187             NA          NA             NA               NA   not detected
-      188             NA          NA             NA               NA               
-      189             NA          NA             NA               NA               
-      190             NA          NA             NA               NA               
-      191             NA          NA             NA               NA               
-      192             NA          NA             NA               NA               
-      193             NA          NA             NA               NA               
+      188             NA          NA             NA               NA           <NA>
+      189             NA          NA             NA               NA           <NA>
+      190             NA          NA             NA               NA           <NA>
+      191             NA          NA             NA               NA           <NA>
+      192             NA          NA             NA               NA           <NA>
+      193             NA          NA             NA               NA           <NA>
       194             NA          NA             NA               NA   not detected
-      195             NA          NA             NA               NA               
+      195             NA          NA             NA               NA           <NA>
       196             NA          NA             NA               NA   not detected
-      197             NA          NA             NA               NA               
-      198             NA          NA             NA               NA               
+      197             NA          NA             NA               NA           <NA>
+      198             NA          NA             NA               NA           <NA>
       199             NA          NA             NA               NA   not detected
-      200             NA          NA             NA               NA               
+      200             NA          NA             NA               NA           <NA>
       201             NA          NA             NA               NA   not detected
-      202             NA          NA             NA               NA               
-      203             NA          NA             NA               NA               
-      204             NA          NA             NA               NA               
-      205             NA          NA             NA               NA               
-      206             NA          NA             NA               NA               
-      207             NA          NA             NA               NA               
+      202             NA          NA             NA               NA           <NA>
+      203             NA          NA             NA               NA           <NA>
+      204             NA          NA             NA               NA           <NA>
+      205             NA          NA             NA               NA           <NA>
+      206             NA          NA             NA               NA           <NA>
+      207             NA          NA             NA               NA           <NA>
       208             NA          NA             NA               NA   not detected
       209             NA          NA             NA               NA   not detected
       210             NA          NA             NA               NA   not detected
       211             NA          NA             NA               NA   not detected
-      212             NA          NA             NA               NA               
-      213             NA          NA             NA               NA               
-      214             NA          NA             NA               NA               
+      212             NA          NA             NA               NA           <NA>
+      213             NA          NA             NA               NA           <NA>
+      214             NA          NA             NA               NA           <NA>
       215             NA          NA             NA               NA   not detected
-      216             NA          NA             NA               NA               
-      217             NA          NA             NA               NA               
-      218             NA          NA             NA               NA               
-      219             NA          NA             NA               NA               
-      220             NA          NA             NA               NA               
-      221             NA          NA             NA               NA               
-      222             NA          NA             NA               NA               
-      223             NA          NA             NA               NA               
-      224             NA          NA             NA               NA               
-      225             NA          NA             NA               NA               
-      226             NA          NA             NA               NA               
-      227             NA          NA             NA               NA               
-      228             NA          NA             NA               NA               
-      229             NA          NA             NA               NA               
-      230             NA          NA             NA               NA               
-      231             NA          NA             NA               NA               
-      232             NA          NA             NA               NA               
-      233             NA          NA             NA               NA               
+      216             NA          NA             NA               NA           <NA>
+      217             NA          NA             NA               NA           <NA>
+      218             NA          NA             NA               NA           <NA>
+      219             NA          NA             NA               NA           <NA>
+      220             NA          NA             NA               NA           <NA>
+      221             NA          NA             NA               NA           <NA>
+      222             NA          NA             NA               NA           <NA>
+      223             NA          NA             NA               NA           <NA>
+      224             NA          NA             NA               NA           <NA>
+      225             NA          NA             NA               NA           <NA>
+      226             NA          NA             NA               NA           <NA>
+      227             NA          NA             NA               NA           <NA>
+      228             NA          NA             NA               NA           <NA>
+      229             NA          NA             NA               NA           <NA>
+      230             NA          NA             NA               NA           <NA>
+      231             NA          NA             NA               NA           <NA>
+      232             NA          NA             NA               NA           <NA>
+      233             NA          NA             NA               NA           <NA>
       234             NA          NA             NA               NA   not detected
-      235             NA          NA             NA               NA               
+      235             NA          NA             NA               NA           <NA>
       236             NA          NA             NA               NA   not detected
-      237             NA          NA             NA               NA               
-      238             NA          NA             NA               NA               
+      237             NA          NA             NA               NA           <NA>
+      238             NA          NA             NA               NA           <NA>
           qc_original_conc qc_spike_added qc_spike_measured qc_spike_recovery
       1                 NA             NA                NA                NA
       2                 NA             NA                NA                NA
@@ -3351,483 +3351,483 @@
       237                   NA                 NA                    NA
       238                   NA                 NA                    NA
           qc_dup_spike_recovery qc_rpd qc_spike_lcl qc_spike_ucl qc_rpd_cl
-      1                      NA                  NA           NA        NA
-      2                      NA                  NA           NA        NA
-      3                      NA                  NA           NA        NA
-      4                      NA                  NA           NA        NA
-      5                      NA                  NA           NA        NA
-      6                      NA                  NA           NA        NA
-      7                      NA                  NA           NA        NA
-      8                      NA                  NA           NA        NA
-      9                      NA                  NA           NA        NA
-      10                     NA                  NA           NA        NA
-      11                     NA                  NA           NA        NA
-      12                     NA                  NA           NA        NA
-      13                     NA                  NA           NA        NA
-      14                     NA                  NA           NA        NA
-      15                     NA                  NA           NA        NA
-      16                     NA                  NA           NA        NA
-      17                     NA                  NA           NA        NA
-      18                     NA                  NA           NA        NA
-      19                     NA                  NA           NA        NA
-      20                     NA                  NA           NA        NA
-      21                     NA                  NA           NA        NA
-      22                     NA                  NA           NA        NA
-      23                     NA                  NA           NA        NA
-      24                     NA                  NA           NA        NA
-      25                     NA                  NA           NA        NA
-      26                     NA                  NA           NA        NA
-      27                     NA                  NA           NA        NA
-      28                     NA                  NA           NA        NA
-      29                     NA                  NA           NA        NA
-      30                     NA                  NA           NA        NA
-      31                     NA                  NA           NA        NA
-      32                     NA                  NA           NA        NA
-      33                     NA                  NA           NA        NA
-      34                     NA                  NA           NA        NA
-      35                     NA                  NA           NA        NA
-      36                     NA                  NA           NA        NA
-      37                     NA                  NA           NA        NA
-      38                     NA                  NA           NA        NA
-      39                     NA                  NA           NA        NA
-      40                     NA                  NA           NA        NA
-      41                     NA                  NA           NA        NA
-      42                     NA                  NA           NA        NA
-      43                     NA                  NA           NA        NA
-      44                     NA                  NA           NA        NA
-      45                     NA                  NA           NA        NA
-      46                     NA                  NA           NA        NA
-      47                     NA                  NA           NA        NA
-      48                     NA                  NA           NA        NA
-      49                     NA                  NA           NA        NA
-      50                     NA                  NA           NA        NA
-      51                     NA                  NA           NA        NA
-      52                     NA                  NA           NA        NA
-      53                     NA                  NA           NA        NA
-      54                     NA                  NA           NA        NA
-      55                     NA                  NA           NA        NA
-      56                     NA                  NA           NA        NA
-      57                     NA                  NA           NA        NA
-      58                     NA                  NA           NA        NA
-      59                     NA                  NA           NA        NA
-      60                     NA                  NA           NA        NA
-      61                     NA                  NA           NA        NA
-      62                     NA                  NA           NA        NA
-      63                     NA                  NA           NA        NA
-      64                     NA                  NA           NA        NA
-      65                     NA                  NA           NA        NA
-      66                     NA                  NA           NA        NA
-      67                     NA                  NA           NA        NA
-      68                     NA                  NA           NA        NA
-      69                     NA                  NA           NA        NA
-      70                     NA                  NA           NA        NA
-      71                     NA                  NA           NA        NA
-      72                     NA                  NA           NA        NA
-      73                     NA                  NA           NA        NA
-      74                     NA                  NA           NA        NA
-      75                     NA                  NA           NA        NA
-      76                     NA                  NA           NA        NA
-      77                     NA                  NA           NA        NA
-      78                     NA                  NA           NA        NA
-      79                     NA                  NA           NA        NA
-      80                     NA                  NA           NA        NA
-      81                     NA                  NA           NA        NA
-      82                     NA                  NA           NA        NA
-      83                     NA                  NA           NA        NA
-      84                     NA                  NA           NA        NA
-      85                     NA                  NA           NA        NA
-      86                     NA                  NA           NA        NA
-      87                     NA                  NA           NA        NA
-      88                     NA                  NA           NA        NA
-      89                     NA                  NA           NA        NA
-      90                     NA                  NA           NA        NA
-      91                     NA                  NA           NA        NA
-      92                     NA                  NA           NA        NA
-      93                     NA                  NA           NA        NA
-      94                     NA                  NA           NA        NA
-      95                     NA                  NA           NA        NA
-      96                     NA                  NA           NA        NA
-      97                     NA                  NA           NA        NA
-      98                     NA                  NA           NA        NA
-      99                     NA                  NA           NA        NA
-      100                    NA                  NA           NA        NA
-      101                    NA                  NA           NA        NA
-      102                    NA                  NA           NA        NA
-      103                    NA                  NA           NA        NA
-      104                    NA                  NA           NA        NA
-      105                    NA                  NA           NA        NA
-      106                    NA                  NA           NA        NA
-      107                    NA                  70          130        NA
-      108                    NA                  70          130        NA
-      109                    NA                  70          130        NA
-      110                    NA                  70          130        NA
-      111                    NA                  70          130        NA
-      112                    NA                  70          130        NA
-      113                    NA                  70          130        NA
-      114                    NA                  70          130        NA
-      115                    NA                  70          130        NA
-      116                    NA                  70          130        NA
-      117                    NA                  70          130        NA
-      118                    NA                  70          130        NA
-      119                    NA                  70          130        NA
-      120                    NA                  70          130        NA
-      121                    NA                  70          130        NA
-      122                    NA                  70          130        NA
-      123                    NA                  70          130        NA
-      124                    NA                  70          130        NA
-      125                    NA                  70          130        NA
+      1                      NA   <NA>           NA           NA        NA
+      2                      NA   <NA>           NA           NA        NA
+      3                      NA   <NA>           NA           NA        NA
+      4                      NA   <NA>           NA           NA        NA
+      5                      NA   <NA>           NA           NA        NA
+      6                      NA   <NA>           NA           NA        NA
+      7                      NA   <NA>           NA           NA        NA
+      8                      NA   <NA>           NA           NA        NA
+      9                      NA   <NA>           NA           NA        NA
+      10                     NA   <NA>           NA           NA        NA
+      11                     NA   <NA>           NA           NA        NA
+      12                     NA   <NA>           NA           NA        NA
+      13                     NA   <NA>           NA           NA        NA
+      14                     NA   <NA>           NA           NA        NA
+      15                     NA   <NA>           NA           NA        NA
+      16                     NA   <NA>           NA           NA        NA
+      17                     NA   <NA>           NA           NA        NA
+      18                     NA   <NA>           NA           NA        NA
+      19                     NA   <NA>           NA           NA        NA
+      20                     NA   <NA>           NA           NA        NA
+      21                     NA   <NA>           NA           NA        NA
+      22                     NA   <NA>           NA           NA        NA
+      23                     NA   <NA>           NA           NA        NA
+      24                     NA   <NA>           NA           NA        NA
+      25                     NA   <NA>           NA           NA        NA
+      26                     NA   <NA>           NA           NA        NA
+      27                     NA   <NA>           NA           NA        NA
+      28                     NA   <NA>           NA           NA        NA
+      29                     NA   <NA>           NA           NA        NA
+      30                     NA   <NA>           NA           NA        NA
+      31                     NA   <NA>           NA           NA        NA
+      32                     NA   <NA>           NA           NA        NA
+      33                     NA   <NA>           NA           NA        NA
+      34                     NA   <NA>           NA           NA        NA
+      35                     NA   <NA>           NA           NA        NA
+      36                     NA   <NA>           NA           NA        NA
+      37                     NA   <NA>           NA           NA        NA
+      38                     NA   <NA>           NA           NA        NA
+      39                     NA   <NA>           NA           NA        NA
+      40                     NA   <NA>           NA           NA        NA
+      41                     NA   <NA>           NA           NA        NA
+      42                     NA   <NA>           NA           NA        NA
+      43                     NA   <NA>           NA           NA        NA
+      44                     NA   <NA>           NA           NA        NA
+      45                     NA   <NA>           NA           NA        NA
+      46                     NA   <NA>           NA           NA        NA
+      47                     NA   <NA>           NA           NA        NA
+      48                     NA   <NA>           NA           NA        NA
+      49                     NA   <NA>           NA           NA        NA
+      50                     NA   <NA>           NA           NA        NA
+      51                     NA   <NA>           NA           NA        NA
+      52                     NA   <NA>           NA           NA        NA
+      53                     NA   <NA>           NA           NA        NA
+      54                     NA   <NA>           NA           NA        NA
+      55                     NA   <NA>           NA           NA        NA
+      56                     NA   <NA>           NA           NA        NA
+      57                     NA   <NA>           NA           NA        NA
+      58                     NA   <NA>           NA           NA        NA
+      59                     NA   <NA>           NA           NA        NA
+      60                     NA   <NA>           NA           NA        NA
+      61                     NA   <NA>           NA           NA        NA
+      62                     NA   <NA>           NA           NA        NA
+      63                     NA   <NA>           NA           NA        NA
+      64                     NA   <NA>           NA           NA        NA
+      65                     NA   <NA>           NA           NA        NA
+      66                     NA   <NA>           NA           NA        NA
+      67                     NA   <NA>           NA           NA        NA
+      68                     NA   <NA>           NA           NA        NA
+      69                     NA   <NA>           NA           NA        NA
+      70                     NA   <NA>           NA           NA        NA
+      71                     NA   <NA>           NA           NA        NA
+      72                     NA   <NA>           NA           NA        NA
+      73                     NA   <NA>           NA           NA        NA
+      74                     NA   <NA>           NA           NA        NA
+      75                     NA   <NA>           NA           NA        NA
+      76                     NA   <NA>           NA           NA        NA
+      77                     NA   <NA>           NA           NA        NA
+      78                     NA   <NA>           NA           NA        NA
+      79                     NA   <NA>           NA           NA        NA
+      80                     NA   <NA>           NA           NA        NA
+      81                     NA   <NA>           NA           NA        NA
+      82                     NA   <NA>           NA           NA        NA
+      83                     NA   <NA>           NA           NA        NA
+      84                     NA   <NA>           NA           NA        NA
+      85                     NA   <NA>           NA           NA        NA
+      86                     NA   <NA>           NA           NA        NA
+      87                     NA   <NA>           NA           NA        NA
+      88                     NA   <NA>           NA           NA        NA
+      89                     NA   <NA>           NA           NA        NA
+      90                     NA   <NA>           NA           NA        NA
+      91                     NA   <NA>           NA           NA        NA
+      92                     NA   <NA>           NA           NA        NA
+      93                     NA   <NA>           NA           NA        NA
+      94                     NA   <NA>           NA           NA        NA
+      95                     NA   <NA>           NA           NA        NA
+      96                     NA   <NA>           NA           NA        NA
+      97                     NA   <NA>           NA           NA        NA
+      98                     NA   <NA>           NA           NA        NA
+      99                     NA   <NA>           NA           NA        NA
+      100                    NA   <NA>           NA           NA        NA
+      101                    NA   <NA>           NA           NA        NA
+      102                    NA   <NA>           NA           NA        NA
+      103                    NA   <NA>           NA           NA        NA
+      104                    NA   <NA>           NA           NA        NA
+      105                    NA   <NA>           NA           NA        NA
+      106                    NA   <NA>           NA           NA        NA
+      107                    NA   <NA>           70          130        NA
+      108                    NA   <NA>           70          130        NA
+      109                    NA   <NA>           70          130        NA
+      110                    NA   <NA>           70          130        NA
+      111                    NA   <NA>           70          130        NA
+      112                    NA   <NA>           70          130        NA
+      113                    NA   <NA>           70          130        NA
+      114                    NA   <NA>           70          130        NA
+      115                    NA   <NA>           70          130        NA
+      116                    NA   <NA>           70          130        NA
+      117                    NA   <NA>           70          130        NA
+      118                    NA   <NA>           70          130        NA
+      119                    NA   <NA>           70          130        NA
+      120                    NA   <NA>           70          130        NA
+      121                    NA   <NA>           70          130        NA
+      122                    NA   <NA>           70          130        NA
+      123                    NA   <NA>           70          130        NA
+      124                    NA   <NA>           70          130        NA
+      125                    NA   <NA>           70          130        NA
       126                   101      2           70          130        20
-      127                    NA                  75          125        20
+      127                    NA   <NA>           75          125        20
       128                    95     <1           75          125        20
-      129                    NA                  80          120        NA
-      130                    NA                  80          120        NA
-      131                    NA                  80          120        NA
-      132                    NA                  80          120        NA
-      133                    NA                  80          120        NA
-      134                    NA                  80          120        NA
-      135                    NA                  85          115        NA
-      136                    NA                  85          115        NA
-      137                    NA                  85          115        NA
-      138                    NA                  85          115        NA
-      139                    NA                  85          115        NA
-      140                    NA                  85          115        NA
-      141                    NA                  85          115        NA
-      142                    NA                  85          115        NA
-      143                    NA                  NA           NA        NA
-      144                    NA                  NA           NA        NA
-      145                    NA                  NA           NA        NA
-      146                    NA                  NA           NA        NA
-      147                    NA                  NA           NA        NA
-      148                    NA                  NA           NA        NA
-      149                    NA                  NA           NA        NA
-      150                    NA                  NA           NA        NA
-      151                    NA                  NA           NA        NA
-      152                    NA                  NA           NA        NA
-      153                    NA                  NA           NA        NA
-      154                    NA                  NA           NA        NA
-      155                    NA                  NA           NA        NA
-      156                    NA                  NA           NA        NA
-      157                    NA                  NA           NA        NA
-      158                    NA                  NA           NA        NA
-      159                    NA                  NA           NA        NA
-      160                    NA                  NA           NA        NA
-      161                    NA                  NA           NA        NA
-      162                    NA                  NA           NA        NA
-      163                    NA                  NA           NA        NA
-      164                    NA                  NA           NA        NA
-      165                    NA                  NA           NA        NA
-      166                    NA                  NA           NA        NA
-      167                    NA                  NA           NA        NA
-      168                    NA                  NA           NA        NA
-      169                    NA                  NA           NA        NA
-      170                    NA                  NA           NA        NA
-      171                    NA                  NA           NA        NA
-      172                    NA                  NA           NA        NA
-      173                    NA                  NA           NA        NA
-      174                    NA                  NA           NA        NA
-      175                    NA                  NA           NA        NA
-      176                    NA                  NA           NA        NA
-      177                    NA                  NA           NA        NA
-      178                    NA                  NA           NA        NA
-      179                    NA                  NA           NA        NA
-      180                    NA                  NA           NA        NA
-      181                    NA                  NA           NA        NA
-      182                    NA                  NA           NA        NA
-      183                    NA                  NA           NA        NA
-      184                    NA                  NA           NA        NA
-      185                    NA                  NA           NA        NA
-      186                    NA                  NA           NA        NA
-      187                    NA                  NA           NA        NA
-      188                    NA                  NA           NA        NA
-      189                    NA                  NA           NA        NA
-      190                    NA                  NA           NA        NA
-      191                    NA                  NA           NA        NA
-      192                    NA                  NA           NA        NA
-      193                    NA                  NA           NA        NA
-      194                    NA                  NA           NA        NA
-      195                    NA                  NA           NA        NA
-      196                    NA                  NA           NA        NA
-      197                    NA                  NA           NA        NA
-      198                    NA                  NA           NA        NA
-      199                    NA                  NA           NA        NA
-      200                    NA                  NA           NA        NA
-      201                    NA                  NA           NA        NA
-      202                    NA                  NA           NA        NA
-      203                    NA                  NA           NA        NA
-      204                    NA                  NA           NA        NA
-      205                    NA                  NA           NA        NA
-      206                    NA                  NA           NA        NA
-      207                    NA                  NA           NA        NA
-      208                    NA                  NA           NA        NA
-      209                    NA                  NA           NA        NA
-      210                    NA                  NA           NA        NA
-      211                    NA                  NA           NA        NA
-      212                    NA                  NA           NA        NA
-      213                    NA                  NA           NA        NA
-      214                    NA                  NA           NA        NA
-      215                    NA                  NA           NA        NA
-      216                    NA                  NA           NA        NA
-      217                    NA                  NA           NA        NA
-      218                    NA                  NA           NA        NA
-      219                    NA                  NA           NA        NA
-      220                    NA                  NA           NA        NA
-      221                    NA                  70          130        NA
-      222                    NA                  70          130        NA
-      223                    NA                  70          130        NA
-      224                    NA                  70          130        NA
-      225                    NA                  70          130        NA
-      226                    NA                  70          130        NA
+      129                    NA   <NA>           80          120        NA
+      130                    NA   <NA>           80          120        NA
+      131                    NA   <NA>           80          120        NA
+      132                    NA   <NA>           80          120        NA
+      133                    NA   <NA>           80          120        NA
+      134                    NA   <NA>           80          120        NA
+      135                    NA   <NA>           85          115        NA
+      136                    NA   <NA>           85          115        NA
+      137                    NA   <NA>           85          115        NA
+      138                    NA   <NA>           85          115        NA
+      139                    NA   <NA>           85          115        NA
+      140                    NA   <NA>           85          115        NA
+      141                    NA   <NA>           85          115        NA
+      142                    NA   <NA>           85          115        NA
+      143                    NA   <NA>           NA           NA        NA
+      144                    NA   <NA>           NA           NA        NA
+      145                    NA   <NA>           NA           NA        NA
+      146                    NA   <NA>           NA           NA        NA
+      147                    NA   <NA>           NA           NA        NA
+      148                    NA   <NA>           NA           NA        NA
+      149                    NA   <NA>           NA           NA        NA
+      150                    NA   <NA>           NA           NA        NA
+      151                    NA   <NA>           NA           NA        NA
+      152                    NA   <NA>           NA           NA        NA
+      153                    NA   <NA>           NA           NA        NA
+      154                    NA   <NA>           NA           NA        NA
+      155                    NA   <NA>           NA           NA        NA
+      156                    NA   <NA>           NA           NA        NA
+      157                    NA   <NA>           NA           NA        NA
+      158                    NA   <NA>           NA           NA        NA
+      159                    NA   <NA>           NA           NA        NA
+      160                    NA   <NA>           NA           NA        NA
+      161                    NA   <NA>           NA           NA        NA
+      162                    NA   <NA>           NA           NA        NA
+      163                    NA   <NA>           NA           NA        NA
+      164                    NA   <NA>           NA           NA        NA
+      165                    NA   <NA>           NA           NA        NA
+      166                    NA   <NA>           NA           NA        NA
+      167                    NA   <NA>           NA           NA        NA
+      168                    NA   <NA>           NA           NA        NA
+      169                    NA   <NA>           NA           NA        NA
+      170                    NA   <NA>           NA           NA        NA
+      171                    NA   <NA>           NA           NA        NA
+      172                    NA   <NA>           NA           NA        NA
+      173                    NA   <NA>           NA           NA        NA
+      174                    NA   <NA>           NA           NA        NA
+      175                    NA   <NA>           NA           NA        NA
+      176                    NA   <NA>           NA           NA        NA
+      177                    NA   <NA>           NA           NA        NA
+      178                    NA   <NA>           NA           NA        NA
+      179                    NA   <NA>           NA           NA        NA
+      180                    NA   <NA>           NA           NA        NA
+      181                    NA   <NA>           NA           NA        NA
+      182                    NA   <NA>           NA           NA        NA
+      183                    NA   <NA>           NA           NA        NA
+      184                    NA   <NA>           NA           NA        NA
+      185                    NA   <NA>           NA           NA        NA
+      186                    NA   <NA>           NA           NA        NA
+      187                    NA   <NA>           NA           NA        NA
+      188                    NA   <NA>           NA           NA        NA
+      189                    NA   <NA>           NA           NA        NA
+      190                    NA   <NA>           NA           NA        NA
+      191                    NA   <NA>           NA           NA        NA
+      192                    NA   <NA>           NA           NA        NA
+      193                    NA   <NA>           NA           NA        NA
+      194                    NA   <NA>           NA           NA        NA
+      195                    NA   <NA>           NA           NA        NA
+      196                    NA   <NA>           NA           NA        NA
+      197                    NA   <NA>           NA           NA        NA
+      198                    NA   <NA>           NA           NA        NA
+      199                    NA   <NA>           NA           NA        NA
+      200                    NA   <NA>           NA           NA        NA
+      201                    NA   <NA>           NA           NA        NA
+      202                    NA   <NA>           NA           NA        NA
+      203                    NA   <NA>           NA           NA        NA
+      204                    NA   <NA>           NA           NA        NA
+      205                    NA   <NA>           NA           NA        NA
+      206                    NA   <NA>           NA           NA        NA
+      207                    NA   <NA>           NA           NA        NA
+      208                    NA   <NA>           NA           NA        NA
+      209                    NA   <NA>           NA           NA        NA
+      210                    NA   <NA>           NA           NA        NA
+      211                    NA   <NA>           NA           NA        NA
+      212                    NA   <NA>           NA           NA        NA
+      213                    NA   <NA>           NA           NA        NA
+      214                    NA   <NA>           NA           NA        NA
+      215                    NA   <NA>           NA           NA        NA
+      216                    NA   <NA>           NA           NA        NA
+      217                    NA   <NA>           NA           NA        NA
+      218                    NA   <NA>           NA           NA        NA
+      219                    NA   <NA>           NA           NA        NA
+      220                    NA   <NA>           NA           NA        NA
+      221                    NA   <NA>           70          130        NA
+      222                    NA   <NA>           70          130        NA
+      223                    NA   <NA>           70          130        NA
+      224                    NA   <NA>           70          130        NA
+      225                    NA   <NA>           70          130        NA
+      226                    NA   <NA>           70          130        NA
       227                    55      1           70          130        20
       228                    96      0           70          130        20
       229                    88      1           70          130        20
       230                    97      0           70          130        20
       231                    99      0           70          130        20
       232                    94      0           70          130        20
-      233                    NA                  NA           NA        NA
-      234                    NA                  NA           NA        NA
-      235                    NA                  NA           NA        NA
-      236                    NA                  NA           NA        NA
-      237                    NA                  NA           NA        NA
-      238                    NA                  NA           NA        NA
+      233                    NA   <NA>           NA           NA        NA
+      234                    NA   <NA>           NA           NA        NA
+      235                    NA   <NA>           NA           NA        NA
+      236                    NA   <NA>           NA           NA        NA
+      237                    NA   <NA>           NA           NA        NA
+      238                    NA   <NA>           NA           NA        NA
           qc_spike_status qc_dup_spike_status qc_rpd_status  lab_sdg
-      1                                                  NA R2005136
-      2                                                  NA R2005136
-      3                                                  NA R2005136
-      4                                                  NA R2005136
-      5                                                  NA R2005136
-      6                                                  NA R2005136
-      7                                                  NA R2005136
-      8                                                  NA R2005136
-      9                                                  NA R2005136
-      10                                                 NA R2005136
-      11                                                 NA R2005136
-      12                                                 NA R2005136
-      13                                                 NA R2005136
-      14                                                 NA R2005136
-      15                                                 NA R2005136
-      16                                                 NA R2005136
-      17                                                 NA R2005136
-      18                                                 NA R2005136
-      19                                                 NA R2005136
-      20                                                 NA R2005136
-      21                                                 NA R2005136
-      22                                                 NA R2005136
-      23                                                 NA R2005136
-      24                                                 NA R2005136
-      25                                                 NA R2005136
-      26                                                 NA R2005136
-      27                                                 NA R2005136
-      28                                                 NA R2005136
-      29                                                 NA R2005136
-      30                                                 NA R2005136
-      31                                                 NA R2005136
-      32                                                 NA R2005136
-      33                                                 NA R2005136
-      34                                                 NA R2005136
-      35                                                 NA R2005136
-      36                                                 NA R2005136
-      37                                                 NA R2005136
-      38                                                 NA R2005136
-      39                                                 NA R2005136
-      40                                                 NA R2005136
-      41                                                 NA R2005136
-      42                                                 NA R2005136
-      43                                                 NA R2005136
-      44                                                 NA R2005136
-      45                                                 NA R2005136
-      46                                                 NA R2005136
-      47                                                 NA R2005136
-      48                                                 NA R2005136
-      49                                                 NA R2005136
-      50                                                 NA R2005136
-      51                                                 NA R2005136
-      52                                                 NA R2005136
-      53                                                 NA R2005136
-      54                                                 NA R2005136
-      55                                                 NA R2005136
-      56                                                 NA R2005136
-      57                                                 NA R2005136
-      58                                                 NA R2005136
-      59                                                 NA R2005136
-      60                                                 NA R2005136
-      61                                                 NA R2005136
-      62                                                 NA R2005136
-      63                                                 NA R2005136
-      64                                                 NA R2005136
-      65                                                 NA R2005136
-      66                                                 NA R2005136
-      67                                                 NA R2005136
-      68                                                 NA R2005136
-      69                                                 NA R2005136
-      70                                                 NA R2005136
-      71                                                 NA R2005136
-      72                                                 NA R2005136
-      73                                                 NA R2005136
-      74                                                 NA R2005136
-      75                                                 NA R2005136
-      76                                                 NA R2005136
-      77                                                 NA R2005136
-      78                                                 NA R2005136
-      79                                                 NA R2005136
-      80                                                 NA R2005136
-      81                                                 NA R2005136
-      82                                                 NA R2005136
-      83                                                 NA R2005136
-      84                                                 NA R2005136
-      85                                                 NA R2005136
-      86                                                 NA R2005136
-      87                                                 NA R2005136
-      88                                                 NA R2005136
-      89                                                 NA R2005136
-      90                                                 NA R2005136
-      91                                                 NA R2005136
-      92                                                 NA R2005136
-      93                                                 NA R2005136
-      94                                                 NA R2005136
-      95                                                 NA R2005136
-      96                                                 NA R2005136
-      97                                                 NA R2005136
-      98                                                 NA R2005136
-      99                                                 NA R2005136
-      100                                                NA R2005136
-      101                                                NA R2005136
-      102                                                NA R2005136
-      103                                                NA R2005136
-      104                                                NA R2005136
-      105                                                NA R2005136
-      106                                                NA R2005136
-      107                                                NA R2005136
-      108                                                NA R2005136
-      109                                                NA R2005136
-      110                                                NA R2005136
-      111                                                NA R2005136
-      112                                                NA R2005136
-      113                                                NA R2005136
-      114                                                NA R2005136
-      115                                                NA R2005136
-      116                                                NA R2005136
-      117                                                NA R2005136
-      118                                                NA R2005136
-      119                                                NA R2005136
-      120                                                NA R2005136
-      121                                                NA R2005136
-      122                                                NA R2005136
-      123                                                NA R2005136
-      124                                                NA R2005136
-      125                                                NA R2005136
-      126                                                NA R2005136
-      127                                                NA R2005136
-      128                                                NA R2005136
-      129                                                NA R2005136
-      130                                                NA R2005136
-      131                                                NA R2005136
-      132                                                NA R2005136
-      133                                                NA R2005136
-      134                                                NA R2005136
-      135                                                NA R2005136
-      136                                                NA R2005136
-      137                                                NA R2005136
-      138                                                NA R2005136
-      139                                                NA R2005136
-      140                                                NA R2005136
-      141                                                NA R2005136
-      142                                                NA R2005136
-      143                                                NA R2005136
-      144                                                NA R2005136
-      145                                                NA R2005136
-      146                                                NA R2005136
-      147                                                NA R2005136
-      148                                                NA R2005136
-      149                                                NA R2005136
-      150                                                NA R2005136
-      151                                                NA R2005136
-      152                                                NA R2005136
-      153                                                NA R2005136
-      154                                                NA R2005136
-      155                                                NA R2005136
-      156                                                NA R2005136
-      157                                                NA R2005136
-      158                                                NA R2005136
-      159                                                NA R2005136
-      160                                                NA R2005136
-      161                                                NA R2005136
-      162                                                NA R2005136
-      163                                                NA R2005136
-      164                                                NA R2005136
-      165                                                NA R2005136
-      166                                                NA R2005136
-      167                                                NA R2005136
-      168                                                NA R2005136
-      169                                                NA R2005136
-      170                                                NA R2005136
-      171                                                NA R2005136
-      172                                                NA R2005136
-      173                                                NA R2005136
-      174                                                NA R2005136
-      175                                                NA R2005136
-      176                                                NA R2005136
-      177                                                NA R2005136
-      178                                                NA R2005136
-      179                                                NA R2005136
-      180                                                NA R2005136
-      181                                                NA R2005136
-      182                                                NA R2005136
-      183                                                NA R2005136
-      184                                                NA R2005136
-      185                                                NA R2005136
-      186                                                NA R2005136
-      187                                                NA R2005136
-      188                                                NA R2005136
-      189                                                NA R2005136
-      190                                                NA R2005136
-      191                                                NA R2005136
-      192                                                NA R2005136
-      193                                                NA R2005136
-      194                                                NA R2005136
-      195                                                NA R2005136
-      196                                                NA R2005136
-      197                                                NA R2005136
-      198                                                NA R2005136
-      199                                                NA R2005136
-      200                                                NA R2005136
-      201                                                NA R2005136
-      202                                                NA R2005136
-      203                                                NA R2005136
-      204                                                NA R2005136
-      205                                                NA R2005136
-      206                                                NA R2005136
-      207                                                NA R2005136
-      208                                                NA R2005136
-      209                                                NA R2005136
-      210                                                NA R2005136
-      211                                                NA R2005136
-      212                                                NA R2005136
-      213                                                NA R2005136
-      214                                                NA R2005136
-      215                                                NA R2005136
-      216                                                NA R2005136
-      217                                                NA R2005136
-      218                                                NA R2005136
-      219                                                NA R2005136
-      220                                                NA R2005136
-      221               *                                NA R2005136
-      222                                                NA R2005136
-      223                                                NA R2005136
-      224                                                NA R2005136
-      225                                                NA R2005136
-      226                                                NA R2005136
+      1              <NA>                <NA>            NA R2005136
+      2              <NA>                <NA>            NA R2005136
+      3              <NA>                <NA>            NA R2005136
+      4              <NA>                <NA>            NA R2005136
+      5              <NA>                <NA>            NA R2005136
+      6              <NA>                <NA>            NA R2005136
+      7              <NA>                <NA>            NA R2005136
+      8              <NA>                <NA>            NA R2005136
+      9              <NA>                <NA>            NA R2005136
+      10             <NA>                <NA>            NA R2005136
+      11             <NA>                <NA>            NA R2005136
+      12             <NA>                <NA>            NA R2005136
+      13             <NA>                <NA>            NA R2005136
+      14             <NA>                <NA>            NA R2005136
+      15             <NA>                <NA>            NA R2005136
+      16             <NA>                <NA>            NA R2005136
+      17             <NA>                <NA>            NA R2005136
+      18             <NA>                <NA>            NA R2005136
+      19             <NA>                <NA>            NA R2005136
+      20             <NA>                <NA>            NA R2005136
+      21             <NA>                <NA>            NA R2005136
+      22             <NA>                <NA>            NA R2005136
+      23             <NA>                <NA>            NA R2005136
+      24             <NA>                <NA>            NA R2005136
+      25             <NA>                <NA>            NA R2005136
+      26             <NA>                <NA>            NA R2005136
+      27             <NA>                <NA>            NA R2005136
+      28             <NA>                <NA>            NA R2005136
+      29             <NA>                <NA>            NA R2005136
+      30             <NA>                <NA>            NA R2005136
+      31             <NA>                <NA>            NA R2005136
+      32             <NA>                <NA>            NA R2005136
+      33             <NA>                <NA>            NA R2005136
+      34             <NA>                <NA>            NA R2005136
+      35             <NA>                <NA>            NA R2005136
+      36             <NA>                <NA>            NA R2005136
+      37             <NA>                <NA>            NA R2005136
+      38             <NA>                <NA>            NA R2005136
+      39             <NA>                <NA>            NA R2005136
+      40             <NA>                <NA>            NA R2005136
+      41             <NA>                <NA>            NA R2005136
+      42             <NA>                <NA>            NA R2005136
+      43             <NA>                <NA>            NA R2005136
+      44             <NA>                <NA>            NA R2005136
+      45             <NA>                <NA>            NA R2005136
+      46             <NA>                <NA>            NA R2005136
+      47             <NA>                <NA>            NA R2005136
+      48             <NA>                <NA>            NA R2005136
+      49             <NA>                <NA>            NA R2005136
+      50             <NA>                <NA>            NA R2005136
+      51             <NA>                <NA>            NA R2005136
+      52             <NA>                <NA>            NA R2005136
+      53             <NA>                <NA>            NA R2005136
+      54             <NA>                <NA>            NA R2005136
+      55             <NA>                <NA>            NA R2005136
+      56             <NA>                <NA>            NA R2005136
+      57             <NA>                <NA>            NA R2005136
+      58             <NA>                <NA>            NA R2005136
+      59             <NA>                <NA>            NA R2005136
+      60             <NA>                <NA>            NA R2005136
+      61             <NA>                <NA>            NA R2005136
+      62             <NA>                <NA>            NA R2005136
+      63             <NA>                <NA>            NA R2005136
+      64             <NA>                <NA>            NA R2005136
+      65             <NA>                <NA>            NA R2005136
+      66             <NA>                <NA>            NA R2005136
+      67             <NA>                <NA>            NA R2005136
+      68             <NA>                <NA>            NA R2005136
+      69             <NA>                <NA>            NA R2005136
+      70             <NA>                <NA>            NA R2005136
+      71             <NA>                <NA>            NA R2005136
+      72             <NA>                <NA>            NA R2005136
+      73             <NA>                <NA>            NA R2005136
+      74             <NA>                <NA>            NA R2005136
+      75             <NA>                <NA>            NA R2005136
+      76             <NA>                <NA>            NA R2005136
+      77             <NA>                <NA>            NA R2005136
+      78             <NA>                <NA>            NA R2005136
+      79             <NA>                <NA>            NA R2005136
+      80             <NA>                <NA>            NA R2005136
+      81             <NA>                <NA>            NA R2005136
+      82             <NA>                <NA>            NA R2005136
+      83             <NA>                <NA>            NA R2005136
+      84             <NA>                <NA>            NA R2005136
+      85             <NA>                <NA>            NA R2005136
+      86             <NA>                <NA>            NA R2005136
+      87             <NA>                <NA>            NA R2005136
+      88             <NA>                <NA>            NA R2005136
+      89             <NA>                <NA>            NA R2005136
+      90             <NA>                <NA>            NA R2005136
+      91             <NA>                <NA>            NA R2005136
+      92             <NA>                <NA>            NA R2005136
+      93             <NA>                <NA>            NA R2005136
+      94             <NA>                <NA>            NA R2005136
+      95             <NA>                <NA>            NA R2005136
+      96             <NA>                <NA>            NA R2005136
+      97             <NA>                <NA>            NA R2005136
+      98             <NA>                <NA>            NA R2005136
+      99             <NA>                <NA>            NA R2005136
+      100            <NA>                <NA>            NA R2005136
+      101            <NA>                <NA>            NA R2005136
+      102            <NA>                <NA>            NA R2005136
+      103            <NA>                <NA>            NA R2005136
+      104            <NA>                <NA>            NA R2005136
+      105            <NA>                <NA>            NA R2005136
+      106            <NA>                <NA>            NA R2005136
+      107            <NA>                <NA>            NA R2005136
+      108            <NA>                <NA>            NA R2005136
+      109            <NA>                <NA>            NA R2005136
+      110            <NA>                <NA>            NA R2005136
+      111            <NA>                <NA>            NA R2005136
+      112            <NA>                <NA>            NA R2005136
+      113            <NA>                <NA>            NA R2005136
+      114            <NA>                <NA>            NA R2005136
+      115            <NA>                <NA>            NA R2005136
+      116            <NA>                <NA>            NA R2005136
+      117            <NA>                <NA>            NA R2005136
+      118            <NA>                <NA>            NA R2005136
+      119            <NA>                <NA>            NA R2005136
+      120            <NA>                <NA>            NA R2005136
+      121            <NA>                <NA>            NA R2005136
+      122            <NA>                <NA>            NA R2005136
+      123            <NA>                <NA>            NA R2005136
+      124            <NA>                <NA>            NA R2005136
+      125            <NA>                <NA>            NA R2005136
+      126            <NA>                <NA>            NA R2005136
+      127            <NA>                <NA>            NA R2005136
+      128            <NA>                <NA>            NA R2005136
+      129            <NA>                <NA>            NA R2005136
+      130            <NA>                <NA>            NA R2005136
+      131            <NA>                <NA>            NA R2005136
+      132            <NA>                <NA>            NA R2005136
+      133            <NA>                <NA>            NA R2005136
+      134            <NA>                <NA>            NA R2005136
+      135            <NA>                <NA>            NA R2005136
+      136            <NA>                <NA>            NA R2005136
+      137            <NA>                <NA>            NA R2005136
+      138            <NA>                <NA>            NA R2005136
+      139            <NA>                <NA>            NA R2005136
+      140            <NA>                <NA>            NA R2005136
+      141            <NA>                <NA>            NA R2005136
+      142            <NA>                <NA>            NA R2005136
+      143            <NA>                <NA>            NA R2005136
+      144            <NA>                <NA>            NA R2005136
+      145            <NA>                <NA>            NA R2005136
+      146            <NA>                <NA>            NA R2005136
+      147            <NA>                <NA>            NA R2005136
+      148            <NA>                <NA>            NA R2005136
+      149            <NA>                <NA>            NA R2005136
+      150            <NA>                <NA>            NA R2005136
+      151            <NA>                <NA>            NA R2005136
+      152            <NA>                <NA>            NA R2005136
+      153            <NA>                <NA>            NA R2005136
+      154            <NA>                <NA>            NA R2005136
+      155            <NA>                <NA>            NA R2005136
+      156            <NA>                <NA>            NA R2005136
+      157            <NA>                <NA>            NA R2005136
+      158            <NA>                <NA>            NA R2005136
+      159            <NA>                <NA>            NA R2005136
+      160            <NA>                <NA>            NA R2005136
+      161            <NA>                <NA>            NA R2005136
+      162            <NA>                <NA>            NA R2005136
+      163            <NA>                <NA>            NA R2005136
+      164            <NA>                <NA>            NA R2005136
+      165            <NA>                <NA>            NA R2005136
+      166            <NA>                <NA>            NA R2005136
+      167            <NA>                <NA>            NA R2005136
+      168            <NA>                <NA>            NA R2005136
+      169            <NA>                <NA>            NA R2005136
+      170            <NA>                <NA>            NA R2005136
+      171            <NA>                <NA>            NA R2005136
+      172            <NA>                <NA>            NA R2005136
+      173            <NA>                <NA>            NA R2005136
+      174            <NA>                <NA>            NA R2005136
+      175            <NA>                <NA>            NA R2005136
+      176            <NA>                <NA>            NA R2005136
+      177            <NA>                <NA>            NA R2005136
+      178            <NA>                <NA>            NA R2005136
+      179            <NA>                <NA>            NA R2005136
+      180            <NA>                <NA>            NA R2005136
+      181            <NA>                <NA>            NA R2005136
+      182            <NA>                <NA>            NA R2005136
+      183            <NA>                <NA>            NA R2005136
+      184            <NA>                <NA>            NA R2005136
+      185            <NA>                <NA>            NA R2005136
+      186            <NA>                <NA>            NA R2005136
+      187            <NA>                <NA>            NA R2005136
+      188            <NA>                <NA>            NA R2005136
+      189            <NA>                <NA>            NA R2005136
+      190            <NA>                <NA>            NA R2005136
+      191            <NA>                <NA>            NA R2005136
+      192            <NA>                <NA>            NA R2005136
+      193            <NA>                <NA>            NA R2005136
+      194            <NA>                <NA>            NA R2005136
+      195            <NA>                <NA>            NA R2005136
+      196            <NA>                <NA>            NA R2005136
+      197            <NA>                <NA>            NA R2005136
+      198            <NA>                <NA>            NA R2005136
+      199            <NA>                <NA>            NA R2005136
+      200            <NA>                <NA>            NA R2005136
+      201            <NA>                <NA>            NA R2005136
+      202            <NA>                <NA>            NA R2005136
+      203            <NA>                <NA>            NA R2005136
+      204            <NA>                <NA>            NA R2005136
+      205            <NA>                <NA>            NA R2005136
+      206            <NA>                <NA>            NA R2005136
+      207            <NA>                <NA>            NA R2005136
+      208            <NA>                <NA>            NA R2005136
+      209            <NA>                <NA>            NA R2005136
+      210            <NA>                <NA>            NA R2005136
+      211            <NA>                <NA>            NA R2005136
+      212            <NA>                <NA>            NA R2005136
+      213            <NA>                <NA>            NA R2005136
+      214            <NA>                <NA>            NA R2005136
+      215            <NA>                <NA>            NA R2005136
+      216            <NA>                <NA>            NA R2005136
+      217            <NA>                <NA>            NA R2005136
+      218            <NA>                <NA>            NA R2005136
+      219            <NA>                <NA>            NA R2005136
+      220            <NA>                <NA>            NA R2005136
+      221               *                <NA>            NA R2005136
+      222            <NA>                <NA>            NA R2005136
+      223            <NA>                <NA>            NA R2005136
+      224            <NA>                <NA>            NA R2005136
+      225            <NA>                <NA>            NA R2005136
+      226            <NA>                <NA>            NA R2005136
       227               *                   *            NA R2005136
-      228                                                NA R2005136
-      229                                                NA R2005136
-      230                                                NA R2005136
-      231                                                NA R2005136
-      232                                                NA R2005136
-      233                                                NA R2005136
-      234                                                NA R2005136
-      235                                                NA R2005136
-      236                                                NA R2005136
-      237                                                NA R2005136
-      238                                                NA R2005136
+      228            <NA>                <NA>            NA R2005136
+      229            <NA>                <NA>            NA R2005136
+      230            <NA>                <NA>            NA R2005136
+      231            <NA>                <NA>            NA R2005136
+      232            <NA>                <NA>            NA R2005136
+      233            <NA>                <NA>            NA R2005136
+      234            <NA>                <NA>            NA R2005136
+      235            <NA>                <NA>            NA R2005136
+      236            <NA>                <NA>            NA R2005136
+      237            <NA>                <NA>            NA R2005136
+      238            <NA>                <NA>            NA R2005136
       
       $Batch_v3.txt
                   X.sys_sample_code lab_anl_method_name       analysis_date fraction
@@ -4161,54 +4161,54 @@
       49          ALSRNY 12-MOHK-79.5-06152020-WMS      12-MOHK-79.5-06152020-W
       50          ALSRNY 12-MOHK-79.5-06152020-WSD      12-MOHK-79.5-06152020-W
          sample_matrix_code sample_type_code sample_source      parent_sample_code
-      1                  WS                N         Field                        
-      2                  WS                N         Field                        
-      3                  WS                N         Field                        
-      4                  WS                N         Field                        
-      5                  WS                N         Field                        
-      6                  WQ               LB           Lab                        
-      7                  WQ               LB           Lab                        
-      8                  WQ               LB           Lab                        
-      9                  WQ               LB           Lab                        
-      10                 WQ               LB           Lab                        
-      11                 WQ               LB           Lab                        
-      12                 WQ               LB           Lab                        
-      13                 WQ               LB           Lab                        
-      14                 WQ               LB           Lab                        
-      15                 WQ               LB           Lab                        
-      16                 WQ               LB           Lab                        
-      17                 WQ               LB           Lab                        
-      18                 WQ               LB           Lab                        
-      19                 WQ               LB           Lab                        
-      20                 WQ               LB           Lab                        
-      21                 WQ               LB           Lab                        
-      22                 WQ               LB           Lab                        
-      23                 WQ               LB           Lab                        
-      24                 WQ               BS           Lab                        
-      25                 WQ               BS           Lab                        
-      26                 WQ               BS           Lab                        
-      27                 WQ               BS           Lab                        
-      28                 WQ               BS           Lab                        
-      29                 WQ               BS           Lab                        
-      30                 WQ               BS           Lab                        
-      31                 WQ               BS           Lab                        
-      32                 WQ               BS           Lab                        
-      33                 WQ               BS           Lab                        
-      34                 WQ               BS           Lab                        
-      35                 WQ               BS           Lab                        
-      36                 WQ               BS           Lab                        
-      37                 WQ               BS           Lab                        
-      38                 WQ               BS           Lab                        
-      39                 WQ               BS           Lab                        
+      1                  WS                N         Field                    <NA>
+      2                  WS                N         Field                    <NA>
+      3                  WS                N         Field                    <NA>
+      4                  WS                N         Field                    <NA>
+      5                  WS                N         Field                    <NA>
+      6                  WQ               LB           Lab                    <NA>
+      7                  WQ               LB           Lab                    <NA>
+      8                  WQ               LB           Lab                    <NA>
+      9                  WQ               LB           Lab                    <NA>
+      10                 WQ               LB           Lab                    <NA>
+      11                 WQ               LB           Lab                    <NA>
+      12                 WQ               LB           Lab                    <NA>
+      13                 WQ               LB           Lab                    <NA>
+      14                 WQ               LB           Lab                    <NA>
+      15                 WQ               LB           Lab                    <NA>
+      16                 WQ               LB           Lab                    <NA>
+      17                 WQ               LB           Lab                    <NA>
+      18                 WQ               LB           Lab                    <NA>
+      19                 WQ               LB           Lab                    <NA>
+      20                 WQ               LB           Lab                    <NA>
+      21                 WQ               LB           Lab                    <NA>
+      22                 WQ               LB           Lab                    <NA>
+      23                 WQ               LB           Lab                    <NA>
+      24                 WQ               BS           Lab                    <NA>
+      25                 WQ               BS           Lab                    <NA>
+      26                 WQ               BS           Lab                    <NA>
+      27                 WQ               BS           Lab                    <NA>
+      28                 WQ               BS           Lab                    <NA>
+      29                 WQ               BS           Lab                    <NA>
+      30                 WQ               BS           Lab                    <NA>
+      31                 WQ               BS           Lab                    <NA>
+      32                 WQ               BS           Lab                    <NA>
+      33                 WQ               BS           Lab                    <NA>
+      34                 WQ               BS           Lab                    <NA>
+      35                 WQ               BS           Lab                    <NA>
+      36                 WQ               BS           Lab                    <NA>
+      37                 WQ               BS           Lab                    <NA>
+      38                 WQ               BS           Lab                    <NA>
+      39                 WQ               BS           Lab                    <NA>
       40                 WQ               BD           Lab             684527-LCS1
       41                 WS               MS           Lab 08-BLCK-84.5-06152020-W
       42                 WS               SD           Lab 08-BLCK-84.5-06152020-W
-      43                 WQ               BS           Lab                        
-      44                 WQ               BS           Lab                        
-      45                 WQ               BS           Lab                        
-      46                 WQ               LB           Lab                        
-      47                 WQ               LB           Lab                        
-      48                 WQ               LB           Lab                        
+      43                 WQ               BS           Lab                    <NA>
+      44                 WQ               BS           Lab                    <NA>
+      45                 WQ               BS           Lab                    <NA>
+      46                 WQ               LB           Lab                    <NA>
+      47                 WQ               LB           Lab                    <NA>
+      48                 WQ               LB           Lab                    <NA>
       49                 WS               MS           Lab 12-MOHK-79.5-06152020-W
       50                 WS               SD           Lab 12-MOHK-79.5-06152020-W
          sample_delivery_group         sample_date       sys_loc_code start_depth
@@ -4268,49 +4268,49 @@
       3         NA         NA               NA               NA          06/17/2020
       4         NA         NA               NA               NA          06/17/2020
       5         NA         NA               NA               NA          06/17/2020
-      6         NA         NA               NA               NA                    
-      7         NA         NA               NA               NA                    
-      8         NA         NA               NA               NA                    
-      9         NA         NA               NA               NA                    
-      10        NA         NA               NA               NA                    
-      11        NA         NA               NA               NA                    
-      12        NA         NA               NA               NA                    
-      13        NA         NA               NA               NA                    
-      14        NA         NA               NA               NA                    
-      15        NA         NA               NA               NA                    
-      16        NA         NA               NA               NA                    
-      17        NA         NA               NA               NA                    
-      18        NA         NA               NA               NA                    
-      19        NA         NA               NA               NA                    
-      20        NA         NA               NA               NA                    
-      21        NA         NA               NA               NA                    
-      22        NA         NA               NA               NA                    
-      23        NA         NA               NA               NA                    
-      24        NA         NA               NA               NA                    
-      25        NA         NA               NA               NA                    
-      26        NA         NA               NA               NA                    
-      27        NA         NA               NA               NA                    
-      28        NA         NA               NA               NA                    
-      29        NA         NA               NA               NA                    
-      30        NA         NA               NA               NA                    
-      31        NA         NA               NA               NA                    
-      32        NA         NA               NA               NA                    
-      33        NA         NA               NA               NA                    
-      34        NA         NA               NA               NA                    
-      35        NA         NA               NA               NA                    
-      36        NA         NA               NA               NA                    
-      37        NA         NA               NA               NA                    
-      38        NA         NA               NA               NA                    
-      39        NA         NA               NA               NA                    
-      40        NA         NA               NA               NA                    
+      6         NA         NA               NA               NA                <NA>
+      7         NA         NA               NA               NA                <NA>
+      8         NA         NA               NA               NA                <NA>
+      9         NA         NA               NA               NA                <NA>
+      10        NA         NA               NA               NA                <NA>
+      11        NA         NA               NA               NA                <NA>
+      12        NA         NA               NA               NA                <NA>
+      13        NA         NA               NA               NA                <NA>
+      14        NA         NA               NA               NA                <NA>
+      15        NA         NA               NA               NA                <NA>
+      16        NA         NA               NA               NA                <NA>
+      17        NA         NA               NA               NA                <NA>
+      18        NA         NA               NA               NA                <NA>
+      19        NA         NA               NA               NA                <NA>
+      20        NA         NA               NA               NA                <NA>
+      21        NA         NA               NA               NA                <NA>
+      22        NA         NA               NA               NA                <NA>
+      23        NA         NA               NA               NA                <NA>
+      24        NA         NA               NA               NA                <NA>
+      25        NA         NA               NA               NA                <NA>
+      26        NA         NA               NA               NA                <NA>
+      27        NA         NA               NA               NA                <NA>
+      28        NA         NA               NA               NA                <NA>
+      29        NA         NA               NA               NA                <NA>
+      30        NA         NA               NA               NA                <NA>
+      31        NA         NA               NA               NA                <NA>
+      32        NA         NA               NA               NA                <NA>
+      33        NA         NA               NA               NA                <NA>
+      34        NA         NA               NA               NA                <NA>
+      35        NA         NA               NA               NA                <NA>
+      36        NA         NA               NA               NA                <NA>
+      37        NA         NA               NA               NA                <NA>
+      38        NA         NA               NA               NA                <NA>
+      39        NA         NA               NA               NA                <NA>
+      40        NA         NA               NA               NA                <NA>
       41        NA         NA               NA               NA          06/17/2020
       42        NA         NA               NA               NA          06/17/2020
-      43        NA         NA               NA               NA                    
-      44        NA         NA               NA               NA                    
-      45        NA         NA               NA               NA                    
-      46        NA         NA               NA               NA                    
-      47        NA         NA               NA               NA                    
-      48        NA         NA               NA               NA                    
+      43        NA         NA               NA               NA                <NA>
+      44        NA         NA               NA               NA                <NA>
+      45        NA         NA               NA               NA                <NA>
+      46        NA         NA               NA               NA                <NA>
+      47        NA         NA               NA               NA                <NA>
+      48        NA         NA               NA               NA                <NA>
       49        NA         NA               NA               NA          06/17/2020
       50        NA         NA               NA               NA          06/17/2020
             sampler sampling_company_code sampling_reason sampling_technique
