@@ -1,5 +1,7 @@
 # zipper 0.0.5
 
+-   add the ability to ingest HTML files.
+
 # zipper 0.0.4
 
 -   `read.csv()` defaults are now:
