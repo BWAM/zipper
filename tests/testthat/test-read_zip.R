@@ -5,6 +5,15 @@ test_that("The defualt will be silent", {
                                      "R2005136.zip")
       )
       )
+
+  testthat::expect_silent(
+    read_zip(.zip_path = here::here("inst",
+                                    "example_zips",
+                                    "R2006316-K.zip")
+    )
+  )
+
+
 })
 
 

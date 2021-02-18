@@ -47,7 +47,7 @@ read_zip_element <- function(.file, .zip_path) {
     # read.csv(unz(description = .zip_path,
     #              filename = .file),
     #          stringsAsFactors = FALSE)
-  } else if (file_extension %in% "htm") {
+  } else if (file_extension %in% c("htm", "html")) {
     # NOT READING CORRECTLY
     read_htm(.zip_path = .zip_path,
              .file = .file)
