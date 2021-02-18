@@ -1,3 +1,5 @@
+# zipper 0.0.4
+
 # zipper 0.0.3
 
 * Dropped the use of `vroom` to import CSVs and TXTs in favor of `read.csv()`.
