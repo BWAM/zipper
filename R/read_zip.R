@@ -33,21 +33,37 @@ read_zip_element <- function(.file, .zip_path) {
                                       .file) + 1L)
 
   # Apply the proper import based on the file extension
-  if (file_extension %in% c("txt", "csv")) {
+  if (file_extension %in% "csv") {
     final <- read.csv(unz(description = .zip_path,
-                          filename = .file),
-                      na.strings = c("", "NA", "N/A",
-                                     "na", "n/a"),
-                      strip.white = TRUE,
-                      stringsAsFactors = FALSE)
-    if (ncol(final) == 1 & grepl("\\t", final[1, 1])) {
-      final <- read.delim(unz(description = .zip_path,
                             filename = .file),
+                      header = TRUE,
+                        sep = delimiter,
                         na.strings = c("", "NA", "N/A",
                                        "na", "n/a"),
                         strip.white = TRUE,
                         stringsAsFactors = FALSE)
-    }
+
+  } else if (file_extension %in% "txt") {
+
+    # Read in the first row to try and guess the delimiter
+    first_row <- read.csv(unz(description = .zip_path,
+                              filename = .file),
+                          nrow = 1)
+
+    delimiter <- ifelse(
+      test = grepl("\\t", first_row[1, 1]),
+      yes = "\t",
+      no = ",")
+
+    final <- read.table(unz(description = .zip_path,
+                            filename = .file),
+                        header = TRUE,
+                        sep = delimiter,
+                        na.strings = c("", "NA", "N/A",
+                                       "na", "n/a"),
+                        strip.white = TRUE,
+                        stringsAsFactors = FALSE)
+
   } else if (file_extension %in% c("htm", "html")) {
     # NOT READING CORRECTLY
     final <- read_htm(.zip_path = .zip_path,
