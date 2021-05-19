@@ -1,3 +1,5 @@
+# zipper 0.0.6
+
 # zipper 0.0.5
 
 -   add the ability to ingest HTML files.
