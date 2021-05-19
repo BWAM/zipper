@@ -1,5 +1,7 @@
 # zipper 0.0.6
 
+-   `read_zip()` will now check if .txt files are CSV or TSV, and subsequently read the file in using the correct delimiter.
+
 # zipper 0.0.5
 
 -   add the ability to ingest HTML files.
