@@ -34,28 +34,30 @@ read_zip_element <- function(.file, .zip_path) {
 
   # Apply the proper import based on the file extension
   if (file_extension %in% c("txt", "csv")) {
-    read.csv(unz(description = .zip_path,
-                 filename = .file),
-             na.strings = c("", "NA", "N/A", "na", "n/a"),
-             strip.white = TRUE,
-             stringsAsFactors = FALSE)
-    # vroom::vroom(unz(description = .zip_path,
-    #                  filename = .file),
-    #              col_names = .col_names,
-    #              col_types = .col_types,
-    #              progress = FALSE)
-    # read.csv(unz(description = .zip_path,
-    #              filename = .file),
-    #          stringsAsFactors = FALSE)
+    final <- read.csv(unz(description = .zip_path,
+                          filename = .file),
+                      na.strings = c("", "NA", "N/A",
+                                     "na", "n/a"),
+                      strip.white = TRUE,
+                      stringsAsFactors = FALSE)
+    if (ncol(final) == 1 & grepl("\\t", final[1, 1])) {
+      final <- read.delim(unz(description = .zip_path,
+                            filename = .file),
+                        na.strings = c("", "NA", "N/A",
+                                       "na", "n/a"),
+                        strip.white = TRUE,
+                        stringsAsFactors = FALSE)
+    }
   } else if (file_extension %in% c("htm", "html")) {
     # NOT READING CORRECTLY
-    read_htm(.zip_path = .zip_path,
+    final <- read_htm(.zip_path = .zip_path,
              .file = .file)
   } else {
     # Provide error message if not one of the file types referenced above
     stop(paste("read_zip_element does not know how to read files of type",
                file_extension))
   }
+  return(final)
 }
 
 
