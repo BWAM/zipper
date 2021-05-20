@@ -12,6 +12,11 @@ test_that("The defualt will be silent", {
                                     "R2006316-K.zip")
     )
   )
+
+  test <- read_zip(.zip_path = here::here("inst",
+                                          "example_zips",
+                                          "R2006316-K.zip")
+  )
   # Test that CSV are imported correctly ------------------------------------
 
   csv_zip <- read_zip(.zip_path = here::here("inst",

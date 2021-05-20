@@ -35,13 +35,14 @@ read_zip_element <- function(.file, .zip_path) {
   # Apply the proper import based on the file extension
   if (file_extension %in% "csv") {
     final <- read.csv(unz(description = .zip_path,
-                            filename = .file),
+                          filename = .file),
                       header = TRUE,
-                        sep = delimiter,
-                        na.strings = c("", "NA", "N/A",
-                                       "na", "n/a"),
-                        strip.white = TRUE,
-                        stringsAsFactors = FALSE)
+                      check.names = FALSE,
+                      sep = delimiter,
+                      na.strings = c("", "NA", "N/A",
+                                     "na", "n/a"),
+                      strip.white = TRUE,
+                      stringsAsFactors = FALSE)
 
   } else if (file_extension %in% "txt") {
 
@@ -58,6 +59,7 @@ read_zip_element <- function(.file, .zip_path) {
     final <- read.table(unz(description = .zip_path,
                             filename = .file),
                         header = TRUE,
+                        check.names = FALSE,
                         sep = delimiter,
                         na.strings = c("", "NA", "N/A",
                                        "na", "n/a"),
@@ -73,6 +75,19 @@ read_zip_element <- function(.file, .zip_path) {
     stop(paste("read_zip_element does not know how to read files of type",
                file_extension))
   }
+  # If there is more than one column name that is blank,
+  # then assume that no header was provide.
+  # Add the header as a row to the DF and convert the column type.
+  if (sum(nchar(names(final)) == 0, na.rm = TRUE) >= 2) {
+    # Append the column names as a row to the DF.
+    final_append <- rbind(names(final), final)
+    # Provide the best guess at the column type.
+    # Also, overwrite the existing "final" DF.
+    final <- type.convert(final_append , as.is = TRUE)
+    # Assign dummy column names to the DF.
+    names(final) <- paste0("x", seq_along(final))
+  }
+  # End of function. Return a DF.
   return(final)
 }
 
