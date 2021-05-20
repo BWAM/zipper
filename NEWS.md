@@ -1,5 +1,13 @@
 # zipper 0.0.7
 
+-   `read_zip()` now guesses if an imported data frame did not have any headers by looking for the presence of blank column names. When no headers are present:
+
+    -   The imported column names are appended to the data frame as a new row.
+
+    -   During the append, all column types are converted to character. `type.convert()` is used to make an educated guess at the column type.
+
+    -   The column names are replaced with dummy names. The dummy names have the prefix "X" followed by a number assigned sequentially based on the number of columns present.
+
 # zipper 0.0.6
 
 -   `read_zip()` will now check if .txt files are CSV or TSV, and subsequently read the file in using the correct delimiter.
