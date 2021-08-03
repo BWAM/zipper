@@ -22,10 +22,11 @@ get_zip_content <- function(.zip_path) {
 #' Read a Single File From a Zip File
 #' Provides some flexibility regarding the file type to be imported.
 #' @param .file the name of a single file contained within a zip file.
+#' @param ... pass arguements on to read.csv or read.table.
 #' @inheritParams get_zip_content
 #' @return A single object extracted from a zip file.
 
-read_zip_element <- function(.file, .zip_path) {
+read_zip_element <- function(.file, .zip_path, ...) {
 
   # Identify the file extension
   file_extension <- substring(.file,
@@ -42,14 +43,16 @@ read_zip_element <- function(.file, .zip_path) {
                       na.strings = c("", "NA", "N/A",
                                      "na", "n/a"),
                       strip.white = TRUE,
-                      stringsAsFactors = FALSE)
+                      stringsAsFactors = FALSE,
+                      ...)
 
   } else if (file_extension %in% "txt") {
 
     # Read in the first row to try and guess the delimiter
     first_row <- read.csv(unz(description = .zip_path,
                               filename = .file),
-                          nrow = 1)
+                          nrow = 1,
+                          ...)
 
     delimiter <- ifelse(
       test = grepl("\\t", first_row[1, 1]),
@@ -64,7 +67,8 @@ read_zip_element <- function(.file, .zip_path) {
                         na.strings = c("", "NA", "N/A",
                                        "na", "n/a"),
                         strip.white = TRUE,
-                        stringsAsFactors = FALSE)
+                        stringsAsFactors = FALSE,
+                        ...)
 
   } else if (file_extension %in% c("htm", "html")) {
     # NOT READING CORRECTLY
@@ -124,7 +128,7 @@ read_htm <- function(.zip_path, .file) {
 #' @return A list of objects imported from a zip file.
 #' @export
 
-read_zip <- function(.zip_path) {
+read_zip <- function(.zip_path, ...) {
   # validator function call to extract file names contained in zip
   name_vec <- get_zip_content(.zip_path = .zip_path)$Name
   # Extract the contents of the zip file into a list
@@ -132,7 +136,8 @@ read_zip <- function(.zip_path) {
                      FUN = function(file_i) {
                        # Internal validator function
                        read_zip_element(.file = file_i,
-                                        .zip_path = .zip_path)
+                                        .zip_path = .zip_path,
+                                        ...)
                      })
   # Name the elements of the list with the file names
   names(zip_list) <- name_vec

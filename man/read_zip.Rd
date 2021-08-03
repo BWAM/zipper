@@ -4,10 +4,12 @@
 \alias{read_zip}
 \title{Read in Files Contained in a Zip File}
 \usage{
-read_zip(.zip_path)
+read_zip(.zip_path, ...)
 }
 \arguments{
 \item{.zip_path}{a file path to a zip file.}
+
+\item{...}{pass arguements on to read.csv or read.table.}
 }
 \value{
 A list of objects imported from a zip file.

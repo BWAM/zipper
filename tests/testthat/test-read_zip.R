@@ -79,6 +79,15 @@ test_that("The defualt will be silent", {
 
 })
 
+test_that("read arguments can be passed on via '...'", {
+  csv_fraction <- read_zip(.zip_path = here::here("inst",
+                                                  "example_zips",
+                                                  "R2104145.zip"),
+                           colClasses = "character")
+
+  expect_type(csv_fraction$TestResultQC_v3.txt$fraction, "character")
+})
+
 
 test_that("Snapshoot remains the same", {
 

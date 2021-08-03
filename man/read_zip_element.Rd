@@ -5,12 +5,14 @@
 \title{Read a Single File From a Zip File
 Provides some flexibility regarding the file type to be imported.}
 \usage{
-read_zip_element(.file, .zip_path)
+read_zip_element(.file, .zip_path, ...)
 }
 \arguments{
 \item{.file}{the name of a single file contained within a zip file.}
 
 \item{.zip_path}{a file path to a zip file.}
+
+\item{...}{pass arguements on to read.csv or read.table.}
 }
 \value{
 A single object extracted from a zip file.
