@@ -1,5 +1,7 @@
 # zipper 0.0.8
 
+-   `read_zip()` added `…` argument to provide users with more flexibility to specify how files should be imported. The additional arguments are passed on to `read.csv` or `read.table`.
+
 # zipper 0.0.7
 
 -   `read_zip()` now guesses if an imported data frame did not have any headers by looking for the presence of blank column names. When no headers are present:
